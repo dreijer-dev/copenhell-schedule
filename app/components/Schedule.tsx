@@ -8,6 +8,7 @@ import { theme } from '../helpers/theme'
 import { ChannelItem } from './ChannelItem'
 import { DaySelector } from './DaySelector'
 import { Program } from './Program'
+import { useMediaQuery } from '../hooks/useMediaQuery'
 
 const getDefaultDate = () => {
   const today = new Date()
@@ -18,6 +19,7 @@ const getDefaultDate = () => {
 
 export function Schedule() {
   const [selectedDate, setSelectedDate] = useState(getDefaultDate())
+  const isMobile = useMediaQuery('(max-width: 768px)')
 
   const filteredEvents = events.filter(event =>
     event.since.startsWith(selectedDate)
@@ -30,7 +32,7 @@ export function Schedule() {
     itemHeight: 75,
     isLine: true,
     dayWidth: 2000,
-    sidebarWidth: 175,
+    sidebarWidth: isMobile ? undefined : 175,
     theme,
   })
 

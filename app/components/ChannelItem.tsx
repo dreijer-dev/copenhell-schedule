@@ -12,7 +12,7 @@ export function ChannelItem({ channel }: { channel: Channel }) {
   return (
     <ChannelBox {...position}>
       <p
-        className={`text-white text-nowrap text-lg ${metalMania.className} font-bold`}
+        className={`text-white text-nowrap text-sm md:text-lg ${metalMania.className} font-bold`}
       >
         {name}
       </p>
