@@ -6,16 +6,11 @@ import { stages } from '../fixtures/stages'
 import { events } from '../fixtures/events'
 
 export function Schedule() {
-  const {
-    getEpgProps,
-    getLayoutProps,
-    onScrollToNow,
-    onScrollLeft,
-    onScrollRight,
-  } = useEpg({
+  const { getEpgProps, getLayoutProps } = useEpg({
     epg: events,
     channels: stages,
-    startDate: '2025-06-18T12:00:00',
+    startDate: '2025-06-20T12:00:00',
+    itemHeight: 50,
   })
 
   return (
