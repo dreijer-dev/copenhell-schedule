@@ -26,7 +26,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang='en'>
-      <body className={`${metalMania.className} antialiased`}>{children}</body>
+      <body className={`${metalMania.className} antialiased bg-black`}>
+        {children}
+      </body>
     </html>
   )
 }

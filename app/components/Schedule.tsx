@@ -35,9 +35,9 @@ export function Schedule() {
   })
 
   return (
-    <div className='flex flex-col gap-4  items-center'>
+    <div className='w-full flex flex-col gap-y-4 items-center'>
       <DaySelector selectedDate={selectedDate} onDateSelect={setSelectedDate} />
-      <div className='w-[1000px] md:w-[1200px] h-[800px]'>
+      <div className='w-full'>
         <Epg {...getEpgProps()}>
           <Layout
             {...getLayoutProps()}
