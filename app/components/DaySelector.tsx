@@ -31,7 +31,7 @@ export function DaySelector({ selectedDate, onDateSelect }: DaySelectorProps) {
           onClick={() => onDateSelect(day.date)}
           className={`px-4 py-2 rounded ${
             selectedDate === day.date
-              ? 'bg-red-600 text-white'
+              ? 'bg-[#dc2626] text-white'
               : 'bg-gray-800 text-white hover:bg-gray-700'
           } ${metalMania.className}`}
         >
