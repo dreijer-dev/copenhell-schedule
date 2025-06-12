@@ -2,38 +2,47 @@ export const stages = [
   {
     uuid: 'copenhell-con-uuid',
     logo: 'https://via.placeholder.com/150x75/FF6B6B/FFFFFF?text=COPENHELL+CON',
+    name: 'COPENHELL CON',
   },
   {
     uuid: 'boneyard-uuid',
     logo: 'https://via.placeholder.com/150x75/4ECDC4/FFFFFF?text=BONEYARD',
+    name: 'BONEYARD',
   },
   {
     uuid: 'pandaemonium-uuid',
     logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=PANDÆMONIUM',
+    name: 'PANDÆMONIUM',
   },
   {
     uuid: 'biergarten-uuid',
-    logo: 'https://via.placeholder.com/150x75/F39C12/FFFFFF?text=BIERGARTEN',
+    logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=BIERGARTEN',
+    name: 'BIERGARTEN',
   },
   {
     uuid: 'gehenna-uuid',
-    logo: 'https://via.placeholder.com/150x75/E74C3C/FFFFFF?text=GEHENNA',
+    logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=GEHENNA',
+    name: 'GEHENNA',
   },
   {
     uuid: 'hades-uuid',
-    logo: 'https://via.placeholder.com/150x75/9B59B6/FFFFFF?text=HADES',
+    logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=HADES',
+    name: 'HADES',
   },
   {
     uuid: 'udgaard-uuid',
-    logo: 'https://via.placeholder.com/150x75/1ABC9C/FFFFFF?text=UDGAARD',
+    logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=UDGAARD',
+    name: 'UDGAARD',
   },
   {
     uuid: 'helviti-uuid',
-    logo: 'https://via.placeholder.com/150x75/34495E/FFFFFF?text=HELVÍTI',
+    logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=HELVÍTI',
+    name: 'HELVÍTI',
   },
   {
     uuid: 'mobil-scene-uuid',
-    logo: 'https://via.placeholder.com/150x75/16A085/FFFFFF?text=MOBIL+SCENE',
+    logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=MOBIL+SCENE',
+    name: 'MOBIL SCENE',
   },
 ]
 

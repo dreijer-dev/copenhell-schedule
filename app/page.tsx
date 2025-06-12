@@ -1,13 +1,18 @@
 import React from 'react'
 import { Schedule } from './components/Schedule'
+import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div className='grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]'>
-      <main className='flex flex-col gap-[32px] row-start-2 items-center sm:items-start'>
-        copenhell schedule
-        <Schedule />
-      </main>
+    <div className={`bg-black grid place-items-center min-h-screen`}>
+      <Image
+        src='https://networksites.livenationinternational.com/networksites/40bntupx/logo-white-copenhell-2025-600px.png'
+        alt='Copenhell Logo'
+        width={300}
+        height={75}
+      />
+      <h1 className='text-white text-4xl font-bold'>Copenhell Schedule 2025</h1>
+      <Schedule />
     </div>
   )
 }

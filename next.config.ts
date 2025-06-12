@@ -1,7 +1,13 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  /* config options here */
-};
+  images: {
+    remotePatterns: [
+      new URL(
+        'https://networksites.livenationinternational.com/networksites/40bntupx/logo-white-copenhell-2025-600px.png'
+      ),
+    ],
+  },
+}
 
-export default nextConfig;
+export default nextConfig
