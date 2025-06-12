@@ -1,10 +1,5 @@
 export const stages = [
   {
-    uuid: 'copenhell-con-uuid',
-    logo: 'https://via.placeholder.com/150x75/FF6B6B/FFFFFF?text=COPENHELL+CON',
-    name: 'COPENHELL CON',
-  },
-  {
     uuid: 'boneyard-uuid',
     logo: 'https://via.placeholder.com/150x75/4ECDC4/FFFFFF?text=BONEYARD',
     name: 'BONEYARD',
@@ -44,9 +39,13 @@ export const stages = [
     logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=MOBIL+SCENE',
     name: 'MOBIL SCENE',
   },
+  {
+    uuid: 'copenhell-con-uuid',
+    logo: 'https://via.placeholder.com/150x75/FF6B6B/FFFFFF?text=COPENHELL+CON',
+    name: 'COPENHELL CON',
+  },
 ]
 
-// Keep the stage names mapping for the events.ts helper function
 export const stageNames = {
   'COPENHELL CON': 'copenhell-con-uuid',
   BONEYARD: 'boneyard-uuid',
