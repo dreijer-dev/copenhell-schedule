@@ -7,6 +7,7 @@ import { events } from '../fixtures/events'
 import { theme } from '../helpers/theme'
 import { ChannelItem } from './ChannelItem'
 import { DaySelector } from './DaySelector'
+import { Program } from './Program'
 
 const getDefaultDate = () => {
   const today = new Date()
@@ -40,6 +41,9 @@ export function Schedule() {
         <Epg {...getEpgProps()}>
           <Layout
             {...getLayoutProps()}
+            renderProgram={({ program, ...rest }) => (
+              <Program key={program.data.id} program={program} {...rest} />
+            )}
             renderChannel={({ channel }) => (
               <ChannelItem key={channel.uuid} channel={channel} />
             )}
