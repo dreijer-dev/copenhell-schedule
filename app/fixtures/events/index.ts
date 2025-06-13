@@ -8,7 +8,7 @@ export const events: Event[] = [
   ...june18Events,
   ...june19Events,
   ...june20Events,
-  ...june21Events,
+  ...june21Events
 ]
 
 export type { Event }

@@ -6,7 +6,7 @@ export const theme = {
   grey: { 300: '#ffffff' },
   white: '#ffffff',
   green: {
-    300: '#1a1a1a',
+    300: '#ffffff',
   },
   loader: {
     teal: '#ff0000',

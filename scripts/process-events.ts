@@ -5,6 +5,8 @@ type SourceEvent = {
   date: string
   artist: string
   stage: string
+  description: string
+  img: string
 }
 
 type ProcessedEvent = {
@@ -81,9 +83,9 @@ Object.entries(eventsByStage).forEach(([stage, events]) => {
 
     processedEvents.push({
       channelUuid: stageToUuid[stage],
-      description: `Live performance by ${event.artist}`,
+      description: event.description,
       id: `event-${eventId++}`,
-      image: 'https://via.placeholder.com/200x150',
+      image: event.img,
       since: startDate.toISOString(),
       till: endDate.toISOString(),
       title: event.artist,

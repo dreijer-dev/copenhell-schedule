@@ -10,12 +10,14 @@ const metalMania = Metal_Mania({
 export function ChannelItem({ channel }: { channel: Channel }) {
   const { position, name } = channel
   return (
-    <ChannelBox {...position}>
-      <p
-        className={`text-white text-nowrap text-sm md:text-lg ${metalMania.className} font-bold`}
-      >
-        {name}
-      </p>
+    <ChannelBox {...position} className=''>
+      <div className='py-2 border-l-2 border-red-900 w-full text-center'>
+        <p
+          className={`text-white text-nowrap text-sm md:text-lg ${metalMania.className} font-bold`}
+        >
+          {name}
+        </p>
+      </div>
     </ChannelBox>
   )
 }
