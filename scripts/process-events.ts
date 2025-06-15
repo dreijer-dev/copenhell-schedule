@@ -20,7 +20,7 @@ type ProcessedEvent = {
 }
 
 // Stage to UUID mapping
-const stageToUuid: Record<string, string> = {
+export const stageToUuid: Record<string, string> = {
   GEHENNA: 'gehenna-uuid',
   HELVÍTI: 'helviti-uuid',
   PANDÆMONIUM: 'pandaemonium-uuid',

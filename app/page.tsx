@@ -17,6 +17,15 @@ export default function Home() {
         Copenhell Schedule 2025
       </h1>
       <Schedule />
+      <footer className='text-white text-center text-sm'>
+        Made by{' '}
+        <a href='https://dreijer.io' className='text-red-600 underline'>
+          Dreijer
+        </a>{' '}
+        with ✌️
+        <br />
+        Schedule scraped by Weidick
+      </footer>
     </div>
   )
 }

@@ -1,6 +1,16 @@
 import type { Metadata, Viewport } from 'next'
-import { Metal_Mania } from 'next/font/google'
+import { Geist, Geist_Mono, Metal_Mania } from 'next/font/google'
 import './globals.css'
+
+const geistSans = Geist({
+  variable: '--font-geist-sans',
+  subsets: ['latin'],
+})
+
+const geistMono = Geist_Mono({
+  variable: '--font-geist-mono',
+  subsets: ['latin'],
+})
 
 const metalMania = Metal_Mania({
   subsets: ['latin'],
@@ -26,7 +36,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang='en'>
-      <body className={`${metalMania.className} antialiased bg-black`}>
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} ${metalMania.className} antialiased bg-black`}
+      >
         {children}
       </body>
     </html>
