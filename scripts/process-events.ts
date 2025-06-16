@@ -32,6 +32,18 @@ export const stageToUuid: Record<string, string> = {
   'MOBIL SCENE': 'mobil-scene-uuid',
 }
 
+/**
+ * Script for processing the json file scraped from the copenhell website
+ *  - Sort events by date and stage
+ *  - Group events by stage
+ *  - Process events with dynamic end times (2 hours)
+ *  - Sort all events by date for final output
+ *  - Group events by day
+ *  - Write day files to app/fixtures/events/june{day}.ts
+ *  - Create index file to export all days to app/fixtures/events/index.ts
+ *  - Create types file to app/fixtures/events/types.ts
+ */
+
 // Read source data
 const sourceData = JSON.parse(
   fs.readFileSync(

@@ -4,7 +4,7 @@ import { Epg, Layout, useEpg } from 'planby'
 import React, { useState } from 'react'
 import { stages } from '../fixtures/stages'
 import { events } from '../fixtures/events'
-import { theme } from '../helpers/theme'
+import { theme } from '../styles/theme'
 import { ChannelItem } from './ChannelItem'
 import { DaySelector } from './DaySelector'
 import { Program } from './Program'
@@ -37,7 +37,7 @@ export function Schedule() {
   })
 
   return (
-    <div className='w-full flex flex-col gap-y-4 items-center'>
+    <div className='w-full flex flex-col gap-y-4 mt-8 items-center'>
       <DaySelector selectedDate={selectedDate} onDateSelect={setSelectedDate} />
       <div className='w-full'>
         <Epg {...getEpgProps()}>
