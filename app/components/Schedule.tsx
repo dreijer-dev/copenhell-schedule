@@ -34,7 +34,7 @@ export function Schedule() {
   const { getEpgProps, getLayoutProps } = useEpg({
     epg: filteredEvents,
     channels: stages,
-    startDate: `${selectedDate}T12:00:00.000Z`,
+    startDate: `${selectedDate}T10:00:00.000Z`,
     itemHeight: 75,
     isLine: true,
     dayWidth,

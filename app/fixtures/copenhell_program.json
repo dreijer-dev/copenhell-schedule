@@ -22,10 +22,31 @@
   },
   {
     "date": "2025-06-18T13:00",
+    "artist": "COPENHELL Musikbingo",
+    "stage": "BIERGARTEN",
+    "description": "Bingoværterne Verner & Vestergaard afholder to seancer med djævelsk og metallisk musikbingo. Vores værter har haft fingrene i kirkegårdens mørkeste muld og har gravet nogle ”interessante” præmier frem. Desuden har COPENHELL også doneret nogle virkelig fede præmier. ",
+    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453151_performance_1080.png"
+  },
+  {
+    "date": "2025-06-18T13:00",
+    "artist": "DEAD POET SOCIETY",
+    "stage": "PANDÆMONIUM",
+    "description": "DEAD POET SOCIETY er godt i gang med totalt at omdefinere lyden af moderne rock. De blander alt fra alt-rock og blues til et væld af progressive toner i deres musikalske smeltedigel til et lydbillede, der er lige dele uforudsigeligt og fængslende. Boston-bandet har skabt deres helt egen intense og kaotiske lyd og har ét mål: At bryde alle regler og genrekonventioner helt ned og føre rocken ind i en helt ny tid.DEAD POET SOCIETY er godt i gang med totalt at omdefinere lyden af moderne rock. De blander alt fra alt-rock og blues til et væld af progressive toner i deres musikalske smeltedigel til et lydbillede, der er lige dele uforudsigeligt og fængslende. Boston-bandet har skabt deres helt egen intense og kaotiske lyd og har ét mål: At bryde alle regler og genrekonventioner helt ned og føre rocken ind i en helt ny tid.",
+    "img": "https://media.appmiral.com/prod/performance/0055/32/thumb_5431160_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-18T13:00",
     "artist": "Teater Lux",
     "stage": "BONEYARD",
     "description": "Teater Lux præsenterer en stedsspecifik immersiv teaterforestilling i totalt mørke. The Return of the Iron Ghouls er en mørk fortælling om metal, loyalitet og en gruppe tidligere B&W-arbejdere, som blev tvunget til at arbejde som slaver for Lucifer i helvede efter deres død. Efter mange årtiers slaveri gør de nu oprør og vender tilbage til deres gamle jagtmarker på Refshaleøen i jagten på rå utæmmet kraft, menneskeblod og energi. Tre elementer, de skal bruge for at opbygge styrke og våben til at bekæmpe Lucifer og genindføre anarki i helvede. COPENHELL har en overflod af, hvad de har brug for, så hvem kan vide sig sikker?",
     "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453128_performance_1080.png"
+  },
+  {
+    "date": "2025-06-18T13:00",
+    "artist": "Trekamp",
+    "stage": "UDGAARD",
+    "description": "Find tilbage til de oldnordiske rødder, når vi afholder vikingetrekamp i Udgaard.",
+    "img": "https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg"
   },
   {
     "date": "2025-06-18T13:00",
@@ -42,20 +63,6 @@
     "img": "https://media.appmiral.com/prod/performance/0055/18/thumb_5417969_performance_1080.jpeg"
   },
   {
-    "date": "2025-06-18T13:00",
-    "artist": "DEAD POET SOCIETY",
-    "stage": "PANDÆMONIUM",
-    "description": "DEAD POET SOCIETY er godt i gang med totalt at omdefinere lyden af moderne rock. De blander alt fra alt-rock og blues til et væld af progressive toner i deres musikalske smeltedigel til et lydbillede, der er lige dele uforudsigeligt og fængslende. Boston-bandet har skabt deres helt egen intense og kaotiske lyd og har ét mål: At bryde alle regler og genrekonventioner helt ned og føre rocken ind i en helt ny tid.DEAD POET SOCIETY er godt i gang med totalt at omdefinere lyden af moderne rock. De blander alt fra alt-rock og blues til et væld af progressive toner i deres musikalske smeltedigel til et lydbillede, der er lige dele uforudsigeligt og fængslende. Boston-bandet har skabt deres helt egen intense og kaotiske lyd og har ét mål: At bryde alle regler og genrekonventioner helt ned og føre rocken ind i en helt ny tid.",
-    "img": "https://media.appmiral.com/prod/performance/0055/32/thumb_5431160_performance_1080.jpeg"
-  },
-  {
-    "date": "2025-06-18T13:00",
-    "artist": "COPENHELL Musikbingo",
-    "stage": "BIERGARTEN",
-    "description": "Bingoværterne Verner & Vestergaard afholder to seancer med djævelsk og metallisk musikbingo. Vores værter har haft fingrene i kirkegårdens mørkeste muld og har gravet nogle ”interessante” præmier frem. Desuden har COPENHELL også doneret nogle virkelig fede præmier. ",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453151_performance_1080.png"
-  },
-  {
     "date": "2025-06-18T13:15",
     "artist": "LAST TRAIN",
     "stage": "GEHENNA",
@@ -64,10 +71,17 @@
   },
   {
     "date": "2025-06-18T14:00",
-    "artist": "MYLES KENNEDY",
+    "artist": "Cowboys from Hellberta",
+    "stage": "BONEYARD",
+    "description": "I år har Boneyard sit helt eget husorkester, der sørger for støvet ørkenstemning midt i helvede. Hver dag klokken 14:00 forvandler de canadiske cowboys fra The Bobby Tenderloin Universe sig til The Cowboys from HellBerta og leverer solid, heavy metal-inspireret westernmytologi. Bandet er rejst hele vejen fra Alberta i Canada til COPENHELL 2025 med sadeltaskerne fyldt med covernumre og overraskelser og tricks oppe i ærmerne på deres cowboyskjorter. The Bobby Tenderloin Universe sætter festen i gang og vækker selv den mest tømmermændsplagede kvægdriver i Boneyard.",
+    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453127_performance_1080.png"
+  },
+  {
+    "date": "2025-06-18T14:00",
+    "artist": "VULVATORIOUS",
     "stage": "HADES",
-    "description": "MYLES KENNEDY udgav i efteråret 2024 et nyt soloalbum, ”The Art of Letting Go”, og annoncerede i den forbindelse en ny turné med bandmedlemmerne Zia Uddin på trommer og Tim Tournier på bas. Den populære sanger har en af den moderne rockgenerations største stemmer og er kendt for sine storslåede og dybt personlige musiknumre – og ikke mindst guitarspil på højt teknisk niveau. Publikum kan roligt begynde at glæde sig til et gensyn på COPENHELL 2025!",
-    "img": "https://media.appmiral.com/prod/performance/0055/19/thumb_5418741_performance_1080.png"
+    "description": "Vulvatorious væver en række metalliske tråde sammen i deres dystre, aggressive og sludgede musik og farver det soniske klæde kulsort – her finder du både crust-punk, thrash og black metal. I 2024 spillede de på COPENHELL og Roskilde Festival og udgav deres selvbetitlede album.",
+    "img": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468059_performance_1080.jpeg"
   },
   {
     "date": "2025-06-18T14:00",
@@ -75,13 +89,6 @@
     "stage": "UDGAARD",
     "description": "I skyggen af storbyens tage på Vesterbro blev Kampgruppen Ulfhednir dannet i 1994 af en samling brødre og søstre, der var drevet af blodets kald og åndens kraft.De tog navnet Ulfhednir – ”den, som bærer ulveklæder” – inspireret af de sagnomspundne frygtløse bersærkere.Siden halvfemserne er gruppen vokset ud af loftrummet og tæller i dag omkring 60 medlemmer, hvor nogle bærer mærkerne fra de tidligste dage, mens andre medlemmer er nye. Alle som en har de specialiseret sig i intens kamptræning og levende formidling af vikingetidens brutale og fascinerende krigerkultur.",
     "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453156_performance_1080.png"
-  },
-  {
-    "date": "2025-06-18T14:00",
-    "artist": "Cowboys from Hellberta",
-    "stage": "BONEYARD",
-    "description": "I år har Boneyard sit helt eget husorkester, der sørger for støvet ørkenstemning midt i helvede. Hver dag klokken 14:00 forvandler de canadiske cowboys fra The Bobby Tenderloin Universe sig til The Cowboys from HellBerta og leverer solid, heavy metal-inspireret westernmytologi. Bandet er rejst hele vejen fra Alberta i Canada til COPENHELL 2025 med sadeltaskerne fyldt med covernumre og overraskelser og tricks oppe i ærmerne på deres cowboyskjorter. The Bobby Tenderloin Universe sætter festen i gang og vækker selv den mest tømmermændsplagede kvægdriver i Boneyard.",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453127_performance_1080.png"
   },
   {
     "date": "2025-06-18T14:45",
@@ -92,10 +99,17 @@
   },
   {
     "date": "2025-06-18T15:00",
-    "artist": "KITTIE",
+    "artist": "Trekamp",
+    "stage": "UDGAARD",
+    "description": "Find tilbage til de oldnordiske rødder, når vi afholder vikingetrekamp i Udgaard.",
+    "img": "https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg"
+  },
+  {
+    "date": "2025-06-18T15:00",
+    "artist": "EMPLOYED TO SERVE",
     "stage": "PANDÆMONIUM",
-    "description": "Canadiske KITTIE stormede metalscenen med deres eksplosive debut ”Spit” i 1999, og de har siden lænet sig mere og mere ind i en endnu hårdere og mere aggressiv lyd. Bandet ramte en lang dvaleperiode efter 2013, og fremtiden var i mange år uvis, indtil de i 2022 blev genforenet på scenen og igen begyndte at turnere og gik i studiet for at indspille nyt materiale. Det førte til deres syvende album, ”Fire”, som blev udgivet i sommeren i 2024 – til kæmpestor begejstring for alle dem, der har fulgt bandet siden starten. Stilen var dengang en spændstig kombination af dén tids dominerende genrer – grunge og nu-metal – men gruppen har gennem årene været en regulær genrekamæleon, der har bevæget sig forbi alt fra død og black til groove og thrash. Vi ser frem til, at de rammer COPENHELL 2025 for fuld kraft!",
-    "img": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408454_performance_1080.jpeg"
+    "description": "EMPLOYED TO SERVE overtager den ledige plads i musikprogrammet på næste onsdag! Det britiske metalband stormede COPENHELL med deres heftige blanding af metallisk hardcore, murbrækker-riffs og rå aggression for to år siden, og de er klar til at gentage succesen på COPENHELL 2025. Glæd jer en både knusende og katartisk oplevelse, når metalkrigerne slipper raseriet løs!",
+    "img": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471379_performance_1080.jpeg"
   },
   {
     "date": "2025-06-18T15:30",
@@ -134,6 +148,13 @@
   },
   {
     "date": "2025-06-18T17:00",
+    "artist": "Trekamp",
+    "stage": "UDGAARD",
+    "description": "Find tilbage til de oldnordiske rødder, når vi afholder vikingetrekamp i Udgaard.",
+    "img": "https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg"
+  },
+  {
+    "date": "2025-06-18T17:00",
     "artist": "SYLOSIS",
     "stage": "HADES",
     "description": "Engelske SYLOSIS forener præcision og vildskab i deres egen helt særlige blanding af thrash, død og progressiv metal. Bandets sofistikerede brutalitet vidner om et tårnhøjt teknisk niveau, der har gjort dem til et højt respekteret navn på den moderne metalscene. Det er et band, der konstant vinder ny respekt og opbygger momentum – og som vi glæder os til at byde velkommen til COPENHELL for første gang.",
@@ -141,7 +162,7 @@
   },
   {
     "date": "2025-06-18T17:00",
-    "artist": "Vulvatorious",
+    "artist": "VULVATORIOUS",
     "stage": "MOBIL SCENE",
     "description": "Vulvatorious væver en række metalliske tråde sammen i deres dystre, aggressive og sludgede musik og farver det soniske klæde kulsort – her finder du både crust-punk, thrash og black metal. I 2024 spillede de på COPENHELL og Roskilde Festival og udgav deres selvbetitlede album.",
     "img": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468059_performance_1080.jpeg"
@@ -151,21 +172,14 @@
     "artist": "Power Hour",
     "stage": "BIERGARTEN",
     "description": "Efter sidste års succes vil Power Hour atter sætte fut i Biergarten. I en hel time synger vi fællessang til 60 af de bedste rock- og metalnumre á ét minut hver. Undervejs vil der også forekomme en smule fjol og måske et drys af Disney-musik. Mellem hver sang lyder gongen og en kæmpe fællesskål vil gjalde gennem Biergarten. 60 sange, 60 skåle, 60 minutter – det kan kun blive den vildeste fest!",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453142_performance_1080.png"
+    "img": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471695_performance_1080.png"
   },
   {
     "date": "2025-06-18T17:30",
-    "artist": "SWARTZHEIM",
+    "artist": "KITTIE",
     "stage": "PANDÆMONIUM",
-    "description": "SWARTZHEIM er et snerrende aggressivt crossover-metalband, der består af fem unge fyre fra Jylland. Debuten ”Clinical Nightmare” og EP’en ”Sympathy” vidner om stort potentiale, og bandet leverer knitrende energi live og en mur af lyd. Tempoet er højt i bandets stærke kombination af thrash og hardcore, som hver gang pisker op til god moshing!",
-    "img": "https://media.appmiral.com/prod/performance/0055/10/thumb_5409544_performance_1080.jpeg"
-  },
-  {
-    "date": "2025-06-18T18:00",
-    "artist": "A Mess",
-    "stage": "BONEYARD",
-    "description": "A Mess er rock n’ riot grrrl bevæbnet med elguitar og et arsenal af fængende hooks, catchy melodier og en ”don’t give a fuck”-attitude – som hvis The Breeders havde avlet Wet Leg og overladt opdragelsen til Pussy Riot.",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453113_performance_1080.png"
+    "description": "Canadiske KITTIE stormede metalscenen med deres eksplosive debut ”Spit” i 1999, og de har siden lænet sig mere og mere ind i en endnu hårdere og mere aggressiv lyd. Bandet ramte en lang dvaleperiode efter 2013, og fremtiden var i mange år uvis, indtil de i 2022 blev genforenet på scenen og igen begyndte at turnere og gik i studiet for at indspille nyt materiale. Det førte til deres syvende album, ”Fire”, som blev udgivet i sommeren i 2024 – til kæmpestor begejstring for alle dem, der har fulgt bandet siden starten. Stilen var dengang en spændstig kombination af dén tids dominerende genrer – grunge og nu-metal – men gruppen har gennem årene været en regulær genrekamæleon, der har bevæget sig forbi alt fra død og black til groove og thrash. Vi ser frem til, at de rammer COPENHELL 2025 for fuld kraft!",
+    "img": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408454_performance_1080.jpeg"
   },
   {
     "date": "2025-06-18T18:00",
@@ -173,6 +187,20 @@
     "stage": "GEHENNA",
     "description": "Det syv mand store australske kultband BATTLESNAKE trodser ihærdigt ethvert forsøg på beskrivelse. Navnet kan næsten ikke blive mere heavy, og de leverer deres tunge rock med tydelige nik til store navne som Black Sabbath, Judas Priest, Queen, King Gizzard og Ghost – og masser af blink i øjet. Der er dømt rendyrket klassisk rock ’n’ roll, når bandet iført hvide satinkåber og med en perlerække af montypythonsk gakkede indslag og uimodståelig charme affyrer retrokanonen og sender os helt tilbage til de fede og ubekymrede firsere med deres tossede heltemusik.",
     "img": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408473_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-18T18:00",
+    "artist": "Guitar Hero",
+    "stage": "COPENHELL CON",
+    "description": "COPENHELL Con fyrer i samarbejde med Bip Bip Bar op under en vild Guitar Hero-maraton på scenen i tre heftige timer mellem 18:00 og 21:00 onsdag aften, hvor I kan give den fuld gas med en perlerække af kendte rock- og metalnumre. Det hele køres af årets vinder af DM i Luftguitar – Bob Dian.Kom forbi og vis, hvad I kan, på både Easy, Medium, Hard og Expert – alle er velkomne til at besøge os og udleve deres indre guitargud!",
+    "img": "https://media.appmiral.com/prod/performance/0055/75/thumb_5474665_performance_1080.png"
+  },
+  {
+    "date": "2025-06-18T18:00",
+    "artist": "A Mess",
+    "stage": "BONEYARD",
+    "description": "A Mess er rock n’ riot grrrl bevæbnet med elguitar og et arsenal af fængende hooks, catchy melodier og en ”don’t give a fuck”-attitude – som hvis The Breeders havde avlet Wet Leg og overladt opdragelsen til Pussy Riot.",
+    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453113_performance_1080.png"
   },
   {
     "date": "2025-06-18T18:15",
@@ -190,6 +218,13 @@
   },
   {
     "date": "2025-06-18T19:45",
+    "artist": "POPPY",
+    "stage": "HADES",
+    "description": "Internetstjernen POPPY taler direkte til en helt ny generation af metalelskere og har i de seneste år taget verden med storm med sine uforudsigelige spring rundt mellem elektropop, nu-metal, heavy metal, industrial-rock og dark pop. Hun bevæger sig ubesværet rundt mellem det nuttede og det grumme med sin eksperimenterende æstetik, og hendes alternative kombination af metal og blød pop er en helt bevidst genremæssig identitetskrise. Denne koncert bliver en musikoplevelse med en ung stjerne, der er helt sin egen!",
+    "img": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408453_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-18T19:45",
     "artist": "WORMROT",
     "stage": "GEHENNA",
     "description": "WORMROT leverer en hårdtslående omgang grindcore hele vejen fra Singapore. Bandet kanaliserer alle hverdagens frustrationer over i lyden af tusind knive, der hugger ubarmhjertigt løs i lytteren. Det vanvittige tempo afbalanceret fornemt af komplekse kompositioner, og publikum kan roligt begynde forberede sig på en moshpit af en anden verden til den her koncert!",
@@ -197,10 +232,10 @@
   },
   {
     "date": "2025-06-18T20:00",
-    "artist": "POPPY",
+    "artist": "SWARTZHEIM",
     "stage": "PANDÆMONIUM",
-    "description": "Internetstjernen POPPY taler direkte til en helt ny generation af metalelskere og har i de seneste år taget verden med storm med sine uforudsigelige spring rundt mellem elektropop, nu-metal, heavy metal, industrial-rock og dark pop. Hun bevæger sig ubesværet rundt mellem det nuttede og det grumme med sin eksperimenterende æstetik, og hendes alternative kombination af metal og blød pop er en helt bevidst genremæssig identitetskrise. Denne koncert bliver en musikoplevelse med en ung stjerne, der er helt sin egen!",
-    "img": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408453_performance_1080.jpeg"
+    "description": "SWARTZHEIM er et snerrende aggressivt crossover-metalband, der består af fem unge fyre fra Jylland. Debuten ”Clinical Nightmare” og EP’en ”Sympathy” vidner om stort potentiale, og bandet leverer knitrende energi live og en mur af lyd. Tempoet er højt i bandets stærke kombination af thrash og hardcore, som hver gang pisker op til god moshing!",
+    "img": "https://media.appmiral.com/prod/performance/0055/10/thumb_5409544_performance_1080.jpeg"
   },
   {
     "date": "2025-06-18T21:00",
@@ -273,11 +308,11 @@
     "img": "https://media.appmiral.com/prod/performance/0055/38/thumb_5437718_performance_1080.jpeg"
   },
   {
-    "date": "2025-06-19T12:30",
-    "artist": "BASTARDANE",
-    "stage": "HADES",
-    "description": "Powertrioen BASTARDANE leverer med råt talent og stor passion et overflødighedshorn af groovy riffs og dissonante toner i en smeltedigel af sludgy, thrashy, progressiv og melodisk rock. Glæd dig til tre unge støjsendere med fandenivoldsk attitude og tung moderne rock.",
-    "img": "https://media.appmiral.com/prod/performance/0055/10/thumb_5409715_performance_1080.jpeg"
+    "date": "2025-06-19T08:00",
+    "artist": "Copainhell",
+    "stage": "COPENHELL Camping Sønder Hoved",
+    "description": "Et forsøg, der undersøger behandling af tømmermænd med vatpindsblokade (et såkaldt transnasal sphenopalatine block).",
+    "img": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471698_performance_1080.png"
   },
   {
     "date": "2025-06-19T12:30",
@@ -285,6 +320,13 @@
     "stage": "PANDÆMONIUM",
     "description": "SKARNET spiller alvorspoetisk hård rock med tunge, metalliske riffs og flotte melodier krydret med en dragende dansksproget vokal. Bandet har med to solide fuldlængdeudgivelser under bæltet og en flot optræden på sidste års JAILBREAK vundet solidt fodfæste på den danske rockscene med fængende musik og energiske liveoptrædener fyldt med fandenivoldsk ballademagerattitude!",
     "img": "https://media.appmiral.com/prod/performance/0055/31/thumb_5430804_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-19T12:30",
+    "artist": "BASTARDANE",
+    "stage": "HADES",
+    "description": "Powertrioen BASTARDANE leverer med råt talent og stor passion et overflødighedshorn af groovy riffs og dissonante toner i en smeltedigel af sludgy, thrashy, progressiv og melodisk rock. Glæd dig til tre unge støjsendere med fandenivoldsk attitude og tung moderne rock.",
+    "img": "https://media.appmiral.com/prod/performance/0055/10/thumb_5409715_performance_1080.jpeg"
   },
   {
     "date": "2025-06-19T12:30",
@@ -302,10 +344,10 @@
   },
   {
     "date": "2025-06-19T13:00",
-    "artist": "HEAVE BLOOD & DIE",
-    "stage": "GEHENNA",
-    "description": "Norske HEAVE BLOOD & DIE har gennem årene været ude på en interessant musikalsk rejse, der har ført dem fra regulær metal over mod et unikt post-metal/post-punk-udtryk. Lo-fi-musikken er melankolsk, stemningsfuld og psykedelisk med et lydbillede, der præges af summende synthflader, hypnotiserende rytmer og ulden fuzzguitar.",
-    "img": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408485_performance_1080.jpeg"
+    "artist": "Teater Lux",
+    "stage": "BONEYARD",
+    "description": "Teater Lux præsenterer en stedsspecifik immersiv teaterforestilling i totalt mørke. The Return of the Iron Ghouls er en mørk fortælling om metal, loyalitet og en gruppe tidligere B&W-arbejdere, som blev tvunget til at arbejde som slaver for Lucifer i helvede efter deres død. Efter mange årtiers slaveri gør de nu oprør og vender tilbage til deres gamle jagtmarker på Refshaleøen i jagten på rå utæmmet kraft, menneskeblod og energi. Tre elementer, de skal bruge for at opbygge styrke og våben til at bekæmpe Lucifer og genindføre anarki i helvede. COPENHELL har en overflod af, hvad de har brug for, så hvem kan vide sig sikker?",
+    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453128_performance_1080.png"
   },
   {
     "date": "2025-06-19T13:00",
@@ -316,10 +358,17 @@
   },
   {
     "date": "2025-06-19T13:00",
-    "artist": "Teater Lux",
-    "stage": "BONEYARD",
-    "description": "Teater Lux præsenterer en stedsspecifik immersiv teaterforestilling i totalt mørke. The Return of the Iron Ghouls er en mørk fortælling om metal, loyalitet og en gruppe tidligere B&W-arbejdere, som blev tvunget til at arbejde som slaver for Lucifer i helvede efter deres død. Efter mange årtiers slaveri gør de nu oprør og vender tilbage til deres gamle jagtmarker på Refshaleøen i jagten på rå utæmmet kraft, menneskeblod og energi. Tre elementer, de skal bruge for at opbygge styrke og våben til at bekæmpe Lucifer og genindføre anarki i helvede. COPENHELL har en overflod af, hvad de har brug for, så hvem kan vide sig sikker?",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453128_performance_1080.png"
+    "artist": "HEAVE BLOOD & DIE",
+    "stage": "GEHENNA",
+    "description": "Norske HEAVE BLOOD & DIE har gennem årene været ude på en interessant musikalsk rejse, der har ført dem fra regulær metal over mod et unikt post-metal/post-punk-udtryk. Lo-fi-musikken er melankolsk, stemningsfuld og psykedelisk med et lydbillede, der præges af summende synthflader, hypnotiserende rytmer og ulden fuzzguitar.",
+    "img": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408485_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-19T13:00",
+    "artist": "Trekamp",
+    "stage": "UDGAARD",
+    "description": "Find tilbage til de oldnordiske rødder, når vi afholder vikingetrekamp i Udgaard.",
+    "img": "https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg"
   },
   {
     "date": "2025-06-19T13:30",
@@ -330,13 +379,6 @@
   },
   {
     "date": "2025-06-19T14:00",
-    "artist": "We Metal The 90s feat. Raz Weekend  & DJ FE",
-    "stage": "BIERGARTEN",
-    "description": "90’erne var metalmusikkens ægte årti, hvor en guldgruppe af banebrydende og genredefinerende bands skabte en række udødelige hits! DJ-duoen graver alle de største hits og skjulte klassikere fra genrens storhedstid frem og sørger for, at festen kører, og baren i Biergarten har travlt.",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453152_performance_1080.png"
-  },
-  {
-    "date": "2025-06-19T14:00",
     "artist": "Ulfhednir",
     "stage": "UDGAARD",
     "description": "I skyggen af storbyens tage på Vesterbro blev Kampgruppen Ulfhednir dannet i 1994 af en samling brødre og søstre, der var drevet af blodets kald og åndens kraft.De tog navnet Ulfhednir – ”den, som bærer ulveklæder” – inspireret af de sagnomspundne frygtløse bersærkere.Siden halvfemserne er gruppen vokset ud af loftrummet og tæller i dag omkring 60 medlemmer, hvor nogle bærer mærkerne fra de tidligste dage, mens andre medlemmer er nye. Alle som en har de specialiseret sig i intens kamptræning og levende formidling af vikingetidens brutale og fascinerende krigerkultur.",
@@ -344,10 +386,24 @@
   },
   {
     "date": "2025-06-19T14:00",
+    "artist": "Cowboys from Hellberta",
+    "stage": "BIERGARTEN",
+    "description": "I år har Boneyard sit helt eget husorkester, der sørger for støvet ørkenstemning midt i helvede. Hver dag klokken 14:00 forvandler de canadiske cowboys fra The Bobby Tenderloin Universe sig til The Cowboys from HellBerta og leverer solid, heavy metal-inspireret westernmytologi. Bandet er rejst hele vejen fra Alberta i Canada til COPENHELL 2025 med sadeltaskerne fyldt med covernumre og overraskelser og tricks oppe i ærmerne på deres cowboyskjorter. The Bobby Tenderloin Universe sætter festen i gang og vækker selv den mest tømmermændsplagede kvægdriver i Boneyard.",
+    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453127_performance_1080.png"
+  },
+  {
+    "date": "2025-06-19T14:00",
     "artist": "Copenhellbound",
     "stage": "COPENHELL CON",
     "description": "Podcastværten og forfatteren Elias Eliot besøger COPENHELL Con med “COPENHELLBOUND” – en unik historie i ”Skæbnekrøniker”-serien, der er skrevet specifikt til COPENHELL Con. Og ligesom i de klassiske Sværd og trolddom-bøger er det publikum, der vælger handlingen i dette sceneshow. En flok dæmoniske monstre invaderer pludselig festivalen, efter at et mystisk band har spillet på Helvíti-scenen, og det er op til deltagerne at standse ondskaben. Kom med og hør historien – og vær med til (forhåbentlig!) at træffe de rigtige valg, så freden og de hårde toner atter kan sænke sig over COPENHELL. Elias fremfører bogen, mens Anders Due-Boje skaber det helt rigtige lydtæppe til denne eksklusive interaktive oplevelse. ",
     "img": "https://media.appmiral.com/prod/performance/0055/18/ab32f115408207ce159cf6542e128d07dbb541b3.jpeg"
+  },
+  {
+    "date": "2025-06-19T14:00",
+    "artist": "We Metal The 90s feat. Raz Weekend  & DJ FE",
+    "stage": "BIERGARTEN",
+    "description": "90’erne var metalmusikkens ægte årti, hvor en guldgruppe af banebrydende og genredefinerende bands skabte en række udødelige hits! DJ-duoen graver alle de største hits og skjulte klassikere fra genrens storhedstid frem og sørger for, at festen kører, og baren i Biergarten har travlt.",
+    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453152_performance_1080.png"
   },
   {
     "date": "2025-06-19T14:30",
@@ -358,10 +414,10 @@
   },
   {
     "date": "2025-06-19T14:45",
-    "artist": "HARDY",
+    "artist": "KŌYA",
     "stage": "HADES",
-    "description": "Countrygenren er langt fra bare bagudskuende gamle mænd, der sidder med cowboyhatten på og tygger på halmstrå, mens de skuer bedrøvet ud over uendelige kornmarker – den rummer også en usædvanlig sanger som HARDY: En country-superstjerne, der har skrevet et utal af sanghits for andre musikere, og som siden har bevæget sig hen over rockens stenede stubbemark og er sprunget over hegnet ind til nu-metal-området og udgiver musik, der virkelig er indbegrebet af original. Hans usædvanlige redneck-hybridmusik er både et effektivt oprør mod de gamle Nashville-dyder og en kolossal crowdpleaser.",
-    "img": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408428_performance_1080.jpeg"
+    "description": "De fremadstormende aalborgensere er braget ind på den danske metalscene og er hurtigt blevet kendt for deres energiske liveshows og take-no-prisoners-attitude. Bandet har allerede tidligt i karrieren deltaget i events som den nationale WOA Metal Battle-finale ’24, Support Our Scene, Mono Goes Metal, Lasher Fest og When COPENHELL Freezes Over. De fusionerer med afsæt i samtidens post-hardcore den aggressive og hurtige natur fra hardcore med sludgens knusende tyngde – med atmosfæriske elementer med inspiration fra black metal og shoegaze indover, der skaber et fængslende og dynamisk lydbillede.",
+    "img": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468060_performance_1080.jpeg"
   },
   {
     "date": "2025-06-19T15:00",
@@ -369,6 +425,13 @@
     "stage": "PANDÆMONIUM",
     "description": "Der er ild i den danske hardcorescene i disse dage, og det fejrer COPENHELL i 2025 med et møde mellem SYL og EYES i en helt særlig koncertoplevelse, hvor de to bands skiftes til at spille deres respektive numre på samme scene. Regn med totalt manisk kaos, når de to grupper i et menneskeligt ping-pong-battle river både hinanden og publikum hårdt rundt i et inferno af rasende lyd og hvirvlende vanvid!",
     "img": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408463_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-19T15:00",
+    "artist": "Trekamp",
+    "stage": "UDGAARD",
+    "description": "Find tilbage til de oldnordiske rødder, når vi afholder vikingetrekamp i Udgaard.",
+    "img": "https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg"
   },
   {
     "date": "2025-06-19T15:30",
@@ -379,17 +442,17 @@
   },
   {
     "date": "2025-06-19T16:00",
-    "artist": "BULLET FOR MY VALENTINE",
-    "stage": "HELVÍTI",
-    "description": "BULLET FOR MY VALENTINE har én mission: At sætte ild til alt omkring sig! Det slagkraftige metalcoreband er kendt for deres både rasende og melodiske moderne metal, der er drevet af både stor innovationstrang og rå intensitet, og deres liveoptrædener er nogle af de mest elektrificerende oplevelser, der kan opdrives i dag. En metallisk naturkraft rammer COPENHELL med en energieksplosion af en anden verden, når de vilde walisere besøger festivalen til sommer!",
-    "img": "https://media.appmiral.com/prod/performance/0055/32/thumb_5431086_performance_1080.jpeg"
-  },
-  {
-    "date": "2025-06-19T16:00",
     "artist": "Commie Cowboys",
     "stage": "BONEYARD",
     "description": "Commie Cowboys er et punkrock-band fra miljøet omkring Ungdomshuset i København, som er genopstået efter længere tids pause. Med en stil, der er inspireret af de gamle hardcorebands fra USA i 80’erne og en solid dosis Motörhead er der ingen floskler, unødige toner eller anden ligegyldighed. Hurtigt, hårdt og helt ind til benet!",
     "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453116_performance_1080.png"
+  },
+  {
+    "date": "2025-06-19T16:00",
+    "artist": "BULLET FOR MY VALENTINE",
+    "stage": "HELVÍTI",
+    "description": "BULLET FOR MY VALENTINE har én mission: At sætte ild til alt omkring sig! Det slagkraftige metalcoreband er kendt for deres både rasende og melodiske moderne metal, der er drevet af både stor innovationstrang og rå intensitet, og deres liveoptrædener er nogle af de mest elektrificerende oplevelser, der kan opdrives i dag. En metallisk naturkraft rammer COPENHELL med en energieksplosion af en anden verden, når de vilde walisere besøger festivalen til sommer!",
+    "img": "https://media.appmiral.com/prod/performance/0055/32/thumb_5431086_performance_1080.jpeg"
   },
   {
     "date": "2025-06-19T16:15",
@@ -403,7 +466,14 @@
     "artist": "Power Hour",
     "stage": "BIERGARTEN",
     "description": "Efter sidste års succes vil Power Hour atter sætte fut i Biergarten. I en hel time synger vi fællessang til 60 af de bedste rock- og metalnumre á ét minut hver. Undervejs vil der også forekomme en smule fjol og måske et drys af Disney-musik. Mellem hver sang lyder gongen og en kæmpe fællesskål vil gjalde gennem Biergarten. 60 sange, 60 skåle, 60 minutter – det kan kun blive den vildeste fest!",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453142_performance_1080.png"
+    "img": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471695_performance_1080.png"
+  },
+  {
+    "date": "2025-06-19T17:00",
+    "artist": "Trekamp",
+    "stage": "UDGAARD",
+    "description": "Find tilbage til de oldnordiske rødder, når vi afholder vikingetrekamp i Udgaard.",
+    "img": "https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg"
   },
   {
     "date": "2025-06-19T17:15",
@@ -421,17 +491,10 @@
   },
   {
     "date": "2025-06-19T17:30",
-    "artist": "Kōya",
+    "artist": "KŌYA",
     "stage": "MOBIL SCENE",
-    "description": "Aalborgensiske Kōya er braget ind på den danske metalscene og er hurtigt blevet kendt for deres energiske liveshows og take-no-prisoners-attitude med glimt i øjet. Et klart vidnesbyrd om dette er bandets tidlige deltagelse i events som den nationale WOA Metal Battle-finale ’24, Support Our Scene, Mono Goes Metal, Lasher Fest og When COPENHELL Freezes Over. Med afsæt i samtidens post-hardcore inkorporeres hardcorens aggressive og hurtige natur med sludgens knusende tyngde og atmosfæriske elementer med inspiration fra black metal og shoegaze, som resulterer i et fængslende og dynamisk lydbillede.",
+    "description": "De fremadstormende aalborgensere er braget ind på den danske metalscene og er hurtigt blevet kendt for deres energiske liveshows og take-no-prisoners-attitude. Bandet har allerede tidligt i karrieren deltaget i events som den nationale WOA Metal Battle-finale ’24, Support Our Scene, Mono Goes Metal, Lasher Fest og When COPENHELL Freezes Over. De fusionerer med afsæt i samtidens post-hardcore den aggressive og hurtige natur fra hardcore med sludgens knusende tyngde – med atmosfæriske elementer med inspiration fra black metal og shoegaze indover, der skaber et fængslende og dynamisk lydbillede.",
     "img": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468060_performance_1080.jpeg"
-  },
-  {
-    "date": "2025-06-19T18:00",
-    "artist": "Sewer Haul",
-    "stage": "BONEYARD",
-    "description": "Et to mand stort goregrindband, der kravlede op fra de danske kloakker i 2023. Mere møgbeskidt kan det næsten ikke blive, når lyden af smadrede riffs og grim skraldespandslilletromme flår indvoldende rundt.",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453115_performance_1080.png"
   },
   {
     "date": "2025-06-19T18:00",
@@ -439,6 +502,13 @@
     "stage": "COPENHELL CON",
     "description": "Har du nogensinde tænkt over, hvorfor så mange finder ro i kaos, styrke i skrig og mening i mørket? Tag med på en rejse ind i musikkens verden, og oplev, hvordan dobbeltpedaler og growl kan fungere som en kanal til at bearbejde vrede, stress og depression. Hvordan tekster om død, angst og eksistentielle kriser kan føles som en trøstende hånd på skulderen. Tre ekstraordinære musikere – Ditte Krøyer (Vulvatorious), Kasper Deichmann (St. Digue) og Jakob Møller-Nielsen (Nexø) – deler deres personlige erfaringer med psykiske udfordringer og fortæller om, hvordan musikken, scenen og fællesskabet har hjulpet dem med at finde sig selv. ",
     "img": "https://media.appmiral.com/prod/performance/0055/38/thumb_5437718_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-19T18:00",
+    "artist": "Sewer Haul",
+    "stage": "BONEYARD",
+    "description": "Et to mand stort goregrindband, der kravlede op fra de danske kloakker i 2023. Mere møgbeskidt kan det næsten ikke blive, når lyden af smadrede riffs og grim skraldespandslilletromme flår indvoldende rundt.",
+    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453115_performance_1080.png"
   },
   {
     "date": "2025-06-19T18:30",
@@ -501,14 +571,7 @@
     "artist": "Midnight Cowboy + Guests",
     "stage": "BIERGARTEN",
     "description": "De musikalske knive er blevet slebet på hjemmebasen Escobar på Nørrebro, så nu er han helt klar til at lægge Biergarten ned. Cowboyen inviterer dig på en musikalsk rejse, der altid er både interessant, udfordrende og inkluderende, og som har hjertet på helt rette sted. I år vil Midnight Cowboy spille op til tre forskellige shows i Biergarten. Hver aften sammen med en ny gæst bag pulten.",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453139_performance_1080.png"
-  },
-  {
-    "date": "2025-06-19T22:00",
-    "artist": "THE PRODIGY",
-    "stage": "HELVÍTI",
-    "description": "Ustoppelige THE PRODIGY rammer de europæiske festivalscener igen i 2025 og lægger vejen forbi COPENHELL på deres turné. Tabet af den karismatiske frontmand Keith Flint i 2019 stoppede på ingen måde bandet, som valgte at hylde ham ved at fortsætte på fuldt blus. Deres eksplosive liveshows og vilde musik beskrives bedst som en fusion af hardcore electronica og punk-rock fyldt med rave-energi, og gruppen har altid spillet, som om de stod med ryggen mod muren. Vildskaben og intensiteten lever stadig i allerbedste velgående i dag, hvor de er i fuld gang med at indspille efterfølgeren til det kritikerroste 2018-album ”No Tourists”. Publikum kan glæde sig til et imponerende sangkatalog med en perlerække af udødelige bangere og en fest af en anden verden, når de brave briter besøger festivalen for første gang.",
-    "img": "https://media.appmiral.com/prod/performance/0055/19/thumb_5418726_performance_1080.jpeg"
+    "img": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471694_performance_1080.png"
   },
   {
     "date": "2025-06-19T22:00",
@@ -516,6 +579,13 @@
     "stage": "BIERGARTEN",
     "description": "BIERGARTENS NATHOLD bestående af apokalypsens fire ryttere: Herre Nice, Blackheart Unicorn, The Pöstmeister & Stu Rox vil igen i år levere en uendelig fest. Der bliver lagt i kakkelovnen til en legendarisk nattefest og fyret op for nakkeknækkende metalbangere, uopslidelige sing-a long-anthems og alle de sange, du bare ikke kan undvære, til festen i Biergarten. ",
     "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453145_performance_1080.png"
+  },
+  {
+    "date": "2025-06-19T22:00",
+    "artist": "THE PRODIGY",
+    "stage": "HELVÍTI",
+    "description": "Ustoppelige THE PRODIGY rammer de europæiske festivalscener igen i 2025 og lægger vejen forbi COPENHELL på deres turné. Tabet af den karismatiske frontmand Keith Flint i 2019 stoppede på ingen måde bandet, som valgte at hylde ham ved at fortsætte på fuldt blus. Deres eksplosive liveshows og vilde musik beskrives bedst som en fusion af hardcore electronica og punk-rock fyldt med rave-energi, og gruppen har altid spillet, som om de stod med ryggen mod muren. Vildskaben og intensiteten lever stadig i allerbedste velgående i dag, hvor de er i fuld gang med at indspille efterfølgeren til det kritikerroste 2018-album ”No Tourists”. Publikum kan glæde sig til et imponerende sangkatalog med en perlerække af udødelige bangere og en fest af en anden verden, når de brave briter besøger festivalen for første gang.",
+    "img": "https://media.appmiral.com/prod/performance/0055/19/thumb_5418726_performance_1080.jpeg"
   },
   {
     "date": "2025-06-19T23:00",
@@ -549,8 +619,15 @@
     "date": "2025-06-20T00:00",
     "artist": "Hår(d)dyst",
     "stage": "COPENHELL CON",
-    "description": "Godt garn og metalmusik går arm i lædervestbeklædt arm. Der har gennem tiden været stor rummelighed til at eksperimentere med både højde, form og længde på frisuren, lige fra mullets til puddelhundskrøller og over hanekam til langt headbangerhår. Det har været et symbol på modkultur, oprør og frihed, og været brugt til at chokere og forarge mainstreamsamfundet og dets normer. Det er derfor på tide, at vi på COPENHELL Con ser på de mest ikoniske heavy metal-frisurer gennem tiden, når vi kårer det mest ikoniske heavyhår nogensinde i selskab med frisørerne Bobby Ågren fra Ruben og Bobbys frisørsaloner og Anja Jargil fra Lush Lounge. Her undersøger vi både hårets betydning i metalmusikken og kigger på forskellige hårtrends gennemtiden – og vi opfordrer publikum til at komme og vise deres allerbedste heavygarn!",
+    "description": "Godt garn og metalmusik går arm i lædervestbeklædt arm. Der har gennem tiden været stor rummelighed til at eksperimentere med både højde, form og længde på frisuren, lige fra mullets til puddelhundskrøller og over hanekam til langt headbangerhår. Det har været et symbol på modkultur, oprør og frihed, og været brugt til at chokere og forarge mainstreamsamfundet og dets normer. Det er derfor på tide, at vi på COPENHELL Con ser på de mest ikoniske heavy metal-frisurer gennem tiden, når vi kårer det mest ikoniske heavyhår nogensinde i selskab med frisørerne Bobby Ågren fra Ruben og Bobbys frisørsaloner og Anja Jargil fra Lush Lounge samt Lars Lyndorff Krelskov, guitarist i Steel Inferno og vinder af Mulletmesterskabet i 2022.",
     "img": "https://media.appmiral.com/prod/performance/0055/38/thumb_5437726_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-20T08:00",
+    "artist": "Copainhell",
+    "stage": "COPENHELL Camping Sønder Hoved",
+    "description": "Et forsøg, der undersøger behandling af tømmermænd med vatpindsblokade (et såkaldt transnasal sphenopalatine block).",
+    "img": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471698_performance_1080.png"
   },
   {
     "date": "2025-06-20T12:00",
@@ -561,17 +638,17 @@
   },
   {
     "date": "2025-06-20T12:30",
-    "artist": "TETRARCH",
-    "stage": "HADES",
-    "description": "Los Angeles-kvartetten TETRARCH står med det ene ben i den grooveorienterede nu-metal og det andet i lemlæstende hård hardcore. Musikken smager af alt fra Metallica, Trivium og Linkin Park til Lamb of God, Korn og Slipknot og kombinerer effektivt melodiske passager med ubændig aggression. Det er intens moderne metal med en monstrøs lyd, der både har gået sin sejrsgang hos streamingpublikummet og rækker langt ud over scenekanten!",
-    "img": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408482_performance_1080.jpeg"
-  },
-  {
-    "date": "2025-06-20T12:30",
     "artist": "THE SOUTHERN RIVER BAND",
     "stage": "PANDÆMONIUM",
     "description": "",
     "img": "https://media.appmiral.com/prod/performance/0055/50/thumb_5449722_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-20T12:30",
+    "artist": "TETRARCH",
+    "stage": "HADES",
+    "description": "Los Angeles-kvartetten TETRARCH står med det ene ben i den grooveorienterede nu-metal og det andet i lemlæstende hård hardcore. Musikken smager af alt fra Metallica, Trivium og Linkin Park til Lamb of God, Korn og Slipknot og kombinerer effektivt melodiske passager med ubændig aggression. Det er intens moderne metal med en monstrøs lyd, der både har gået sin sejrsgang hos streamingpublikummet og rækker langt ud over scenekanten!",
+    "img": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408482_performance_1080.jpeg"
   },
   {
     "date": "2025-06-20T12:45",
@@ -589,6 +666,20 @@
   },
   {
     "date": "2025-06-20T13:00",
+    "artist": "Trekamp",
+    "stage": "UDGAARD",
+    "description": "Find tilbage til de oldnordiske rødder, når vi afholder vikingetrekamp i Udgaard.",
+    "img": "https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg"
+  },
+  {
+    "date": "2025-06-20T13:00",
+    "artist": "Metal & Tråd",
+    "stage": "COPENHELL CON",
+    "description": "Det er langt fra alle bands, der sælger T-shirts, som passer til kvindekroppe. Derfor afholder Metal & Tråd daglige workshops mellem 13:00 og 15:00 på hver festivaldag, hvor I kan komme og sy jeres T-shirt om til et mere feminint snit – og få gode råd undervejs. Her kan I også sy nyindkøbte patches på, lappe huller eller bare komme og nyde dejlig metalhygge",
+    "img": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468655_performance_960.png"
+  },
+  {
+    "date": "2025-06-20T13:00",
     "artist": "Teater Lux",
     "stage": "BONEYARD",
     "description": "Teater Lux præsenterer en stedsspecifik immersiv teaterforestilling i totalt mørke. The Return of the Iron Ghouls er en mørk fortælling om metal, loyalitet og en gruppe tidligere B&W-arbejdere, som blev tvunget til at arbejde som slaver for Lucifer i helvede efter deres død. Efter mange årtiers slaveri gør de nu oprør og vender tilbage til deres gamle jagtmarker på Refshaleøen i jagten på rå utæmmet kraft, menneskeblod og energi. Tre elementer, de skal bruge for at opbygge styrke og våben til at bekæmpe Lucifer og genindføre anarki i helvede. COPENHELL har en overflod af, hvad de har brug for, så hvem kan vide sig sikker?",
@@ -600,13 +691,6 @@
     "stage": "BIERGARTEN",
     "description": "Bingoværterne Verner & Vestergaard afholder to seancer med djævelsk og metallisk musikbingo. Vores værter har haft fingrene i kirkegårdens mørkeste muld og har gravet nogle ”interessante” præmier frem. Desuden har COPENHELL også doneret nogle virkelig fede præmier. ",
     "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453151_performance_1080.png"
-  },
-  {
-    "date": "2025-06-20T13:00",
-    "artist": "Metal & Tråd",
-    "stage": "COPENHELL CON",
-    "description": "Det er langt fra alle bands, der sælger T-shirts, som passer til kvindekroppe. Derfor afholder Metal & Tråd daglige workshops mellem 13:00 og 15:00 på hver festivaldag, hvor I kan komme og sy jeres T-shirt om til et mere feminint snit – og få gode råd undervejs. Her kan I også sy nyindkøbte patches på, lappe huller eller bare komme og nyde dejlig metalhygge",
-    "img": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468655_performance_960.png"
   },
   {
     "date": "2025-06-20T13:30",
@@ -645,17 +729,24 @@
   },
   {
     "date": "2025-06-20T14:45",
+    "artist": "SARCATOR",
+    "stage": "GEHENNA",
+    "description": "",
+    "img": "https://media.appmiral.com/prod/performance/0055/31/thumb_5430805_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-20T14:45",
     "artist": "TROLD",
     "stage": "HADES",
     "description": "TROLD spiller folkemetal inde fra de store og mørke danske skove med et skælmsk smil. Historiefortællingen, der er inspireret af nordiske eventyr og mytologi, og melodierne er i fokus, når bandet leger med forskellige folkeinstrumenter og tunge guitarrytmer, og historierne growles, hvæses og synges – og skaber en stemningsfuld publikumsfest!",
     "img": "https://media.appmiral.com/prod/performance/0055/23/thumb_5422943_performance_1080.jpeg"
   },
   {
-    "date": "2025-06-20T14:45",
-    "artist": "SARCATOR",
-    "stage": "GEHENNA",
-    "description": "",
-    "img": "https://media.appmiral.com/prod/performance/0055/31/thumb_5430805_performance_1080.jpeg"
+    "date": "2025-06-20T15:00",
+    "artist": "Trekamp",
+    "stage": "UDGAARD",
+    "description": "Find tilbage til de oldnordiske rødder, når vi afholder vikingetrekamp i Udgaard.",
+    "img": "https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg"
   },
   {
     "date": "2025-06-20T15:15",
@@ -673,13 +764,6 @@
   },
   {
     "date": "2025-06-20T16:00",
-    "artist": "Forging Fantasy",
-    "stage": "COPENHELL CON",
-    "description": "Costume design across film, LARP and metal ",
-    "img": "https://media.appmiral.com/prod/performance/0055/69/517ee7332a140db4d7ed614c3f38df55cae61abd.png"
-  },
-  {
-    "date": "2025-06-20T16:00",
     "artist": "DREAM THEATER",
     "stage": "HELVÍTI",
     "description": "I DREAM THEATERs progressive lydunivers overskrider musikken alle grænser mellem rock, metal, klassisk musik og historiefortælling. Komplekse tidssignaturer, storslåede kompositioner og uhørt musikalsk ekvilibrisme på alle pladser skaber en uhyre sofistikeret lytteoplevelse, som senest imponerede både fans og anmeldere under bandets overlegne koncert i København i efteråret 2024. Det er en stor fornøjelse for os at invitere dem tilbage til København til næste sommer!",
@@ -694,17 +778,24 @@
   },
   {
     "date": "2025-06-20T16:00",
+    "artist": "Forging Fantasy",
+    "stage": "COPENHELL CON",
+    "description": "Costume design across film, LARP and metal ",
+    "img": "https://media.appmiral.com/prod/performance/0055/69/517ee7332a140db4d7ed614c3f38df55cae61abd.png"
+  },
+  {
+    "date": "2025-06-20T16:00",
+    "artist": "VULVATORIOUS",
+    "stage": "MOBIL SCENE",
+    "description": "Vulvatorious væver en række metalliske tråde sammen i deres dystre, aggressive og sludgede musik og farver det soniske klæde kulsort – her finder du både crust-punk, thrash og black metal. I 2024 spillede de på COPENHELL og Roskilde Festival og udgav deres selvbetitlede album.",
+    "img": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468059_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-20T16:00",
     "artist": "Puke Wolf",
     "stage": "BONEYARD",
     "description": "Puke Wolf er emotionel post-hardcore fra Aarhus, der insisterer på at omsætte frustration, lede og desperation til en sonisk eksplosion. Musikken balancerer på grænsen mellem det kaotiske og det kontrollerede, hvor støjende aggression og melankolsk skønhed mødes i en konstant spænding. Alle tre medlemmer skriger og råber med hver sin stemme. Det må godt gøre ondt!",
     "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453119_performance_1080.png"
-  },
-  {
-    "date": "2025-06-20T16:00",
-    "artist": "Vulvatorious",
-    "stage": "MOBIL SCENE",
-    "description": "Vulvatorious væver en række metalliske tråde sammen i deres dystre, aggressive og sludgede musik og farver det soniske klæde kulsort – her finder du både crust-punk, thrash og black metal. I 2024 spillede de på COPENHELL og Roskilde Festival og udgav deres selvbetitlede album.",
-    "img": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468059_performance_1080.jpeg"
   },
   {
     "date": "2025-06-20T16:45",
@@ -715,10 +806,17 @@
   },
   {
     "date": "2025-06-20T17:00",
+    "artist": "Trekamp",
+    "stage": "UDGAARD",
+    "description": "Find tilbage til de oldnordiske rødder, når vi afholder vikingetrekamp i Udgaard.",
+    "img": "https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg"
+  },
+  {
+    "date": "2025-06-20T17:00",
     "artist": "Power Hour",
     "stage": "BIERGARTEN",
     "description": "Efter sidste års succes vil Power Hour atter sætte fut i Biergarten. I en hel time synger vi fællessang til 60 af de bedste rock- og metalnumre á ét minut hver. Undervejs vil der også forekomme en smule fjol og måske et drys af Disney-musik. Mellem hver sang lyder gongen og en kæmpe fællesskål vil gjalde gennem Biergarten. 60 sange, 60 skåle, 60 minutter – det kan kun blive den vildeste fest!",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453142_performance_1080.png"
+    "img": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471695_performance_1080.png"
   },
   {
     "date": "2025-06-20T17:15",
@@ -726,6 +824,13 @@
     "stage": "HADES",
     "description": "Liverpool-bandet CARCASS var helt tilbage i 1985 pionerer for både grindcore og melodisk dødsmetal, og de er stadig i dag – 40 år senere! – et af scenens stærkeste navne. Deres genredefinerende musik er kompromisløs, nådesløs og knivskarp. Albummer som ”Heartwork” og ”Surgical Steel” er højt skattede blandt dødsmetalentusiasterne, som elsker bandet for dets eminente kombination af tårnhøjt teknisk niveau og uhæmmet aggression.",
     "img": "https://media.appmiral.com/prod/performance/0055/10/thumb_5409728_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-20T17:30",
+    "artist": "Trekamp",
+    "stage": "UDGAARD",
+    "description": "Find tilbage til de oldnordiske rødder, når vi afholder vikingetrekamp i Udgaard.",
+    "img": "https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg"
   },
   {
     "date": "2025-06-20T17:30",
@@ -738,7 +843,7 @@
     "date": "2025-06-20T17:45",
     "artist": "Hår(d)dyst",
     "stage": "COPENHELL CON",
-    "description": "Godt garn og metalmusik går arm i lædervestbeklædt arm. Der har gennem tiden været stor rummelighed til at eksperimentere med både højde, form og længde på frisuren, lige fra mullets til puddelhundskrøller og over hanekam til langt headbangerhår. Det har været et symbol på modkultur, oprør og frihed, og været brugt til at chokere og forarge mainstreamsamfundet og dets normer. Det er derfor på tide, at vi på COPENHELL Con ser på de mest ikoniske heavy metal-frisurer gennem tiden, når vi kårer det mest ikoniske heavyhår nogensinde i selskab med frisørerne Bobby Ågren fra Ruben og Bobbys frisørsaloner og Anja Jargil fra Lush Lounge. Her undersøger vi både hårets betydning i metalmusikken og kigger på forskellige hårtrends gennemtiden – og vi opfordrer publikum til at komme og vise deres allerbedste heavygarn!",
+    "description": "Godt garn og metalmusik går arm i lædervestbeklædt arm. Der har gennem tiden været stor rummelighed til at eksperimentere med både højde, form og længde på frisuren, lige fra mullets til puddelhundskrøller og over hanekam til langt headbangerhår. Det har været et symbol på modkultur, oprør og frihed, og været brugt til at chokere og forarge mainstreamsamfundet og dets normer. Det er derfor på tide, at vi på COPENHELL Con ser på de mest ikoniske heavy metal-frisurer gennem tiden, når vi kårer det mest ikoniske heavyhår nogensinde i selskab med frisørerne Bobby Ågren fra Ruben og Bobbys frisørsaloner og Anja Jargil fra Lush Lounge samt Lars Lyndorff Krelskov, guitarist i Steel Inferno og vinder af Mulletmesterskabet i 2022.",
     "img": "https://media.appmiral.com/prod/performance/0055/38/thumb_5437726_performance_1080.jpeg"
   },
   {
@@ -802,7 +907,7 @@
     "artist": "Midnight Cowboy + Guests",
     "stage": "BIERGARTEN",
     "description": "De musikalske knive er blevet slebet på hjemmebasen Escobar på Nørrebro, så nu er han helt klar til at lægge Biergarten ned. Cowboyen inviterer dig på en musikalsk rejse, der altid er både interessant, udfordrende og inkluderende, og som har hjertet på helt rette sted. I år vil Midnight Cowboy spille op til tre forskellige shows i Biergarten. Hver aften sammen med en ny gæst bag pulten.",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453139_performance_1080.png"
+    "img": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471694_performance_1080.png"
   },
   {
     "date": "2025-06-20T21:30",
@@ -848,17 +953,17 @@
   },
   {
     "date": "2025-06-21T00:00",
-    "artist": "Ekstreme oprør",
-    "stage": "COPENHELL CON",
-    "description": "”Let freedom ring with a shotgun blast!”, råber Machine Head. ”Take the power back!”, rapper Rage Against the Machine. “I wasn’t born with enough middle fingers!”, snerrer Marilyn Manson. Metalmusikken har altid kredset om oprør. Oprør med autoriteterne og oprør mod systemet.",
-    "img": "https://media.appmiral.com/prod/performance/0055/18/thumb_5417964_performance_1080.jpeg"
-  },
-  {
-    "date": "2025-06-21T00:00",
     "artist": "Lig, lort og lir i dyreriget",
     "stage": "COPENHELL CON",
     "description": "I naturen er det hverken tabubelagt at bo i en lort, lugte af lig eller dyrke larmende, ubehagelig sex foran andre – her er der ingen løftede øjenbryn! I en talk om lig, lort og lir i dyreriget vil vi fortælle om forskellige arters vilde adfærd og tage publikum med ind i en heftig verden fyldt med ligrøvere, skrækrovbiller, nakkehornede møggravere, sortkøllede ådselsgravere, spækhuggere og meget værre.",
     "img": "https://media.appmiral.com/prod/performance/0055/18/thumb_5417965_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-21T00:00",
+    "artist": "Ekstreme oprør",
+    "stage": "COPENHELL CON",
+    "description": "”Let freedom ring with a shotgun blast!”, råber Machine Head. ”Take the power back!”, rapper Rage Against the Machine. “I wasn’t born with enough middle fingers!”, snerrer Marilyn Manson. Metalmusikken har altid kredset om oprør. Oprør med autoriteterne og oprør mod systemet.",
+    "img": "https://media.appmiral.com/prod/performance/0055/18/thumb_5417964_performance_1080.jpeg"
   },
   {
     "date": "2025-06-21T00:00",
@@ -876,17 +981,17 @@
   },
   {
     "date": "2025-06-21T12:30",
-    "artist": "NESTOR",
-    "stage": "HADES",
-    "description": "Det svenske rockband NESTOR startede helt tilbage i 1989, hvor de i de følgende år kun udgav nogle enkelte EP’er, før de valgte at holde en lang pause … helt frem til 2021, hvor de udgav debutalbummet ”Kids In A Ghost Town”! Bandet leverer en ekstremt melodisk fortolkning af 80’ernes hard rock og glam metal, som uden tvivl vil bringe en lille tåre frem i øjenkrogen på alle med hang til årtiets musik.",
-    "img": "https://media.appmiral.com/prod/performance/0055/10/thumb_5409725_performance_1080.jpeg"
-  },
-  {
-    "date": "2025-06-21T12:30",
     "artist": "FLESHWATER",
     "stage": "PANDÆMONIUM",
     "description": "FLESHWATER spiller en blanding af shoegaze, alternativ rock og post-hardcore – fyldt med distortion, reverb og stemningsfulde melodier. Inspirationen findes i 90’ernes alternative scene, og nostalgi og innovation mødes i et kreativt spændingsfelt, der sitrer af drømmeagtig intensitet. Det er introspektiv og mindeværdig musik fra et band, der er ved at skabe sin helt stemme inden for den moderne rock.",
     "img": "https://media.appmiral.com/prod/performance/0055/10/thumb_5409717_performance_1080.jpeg"
+  },
+  {
+    "date": "2025-06-21T12:30",
+    "artist": "NESTOR",
+    "stage": "HADES",
+    "description": "Det svenske rockband NESTOR startede helt tilbage i 1989, hvor de i de følgende år kun udgav nogle enkelte EP’er, før de valgte at holde en lang pause … helt frem til 2021, hvor de udgav debutalbummet ”Kids In A Ghost Town”! Bandet leverer en ekstremt melodisk fortolkning af 80’ernes hard rock og glam metal, som uden tvivl vil bringe en lille tåre frem i øjenkrogen på alle med hang til årtiets musik.",
+    "img": "https://media.appmiral.com/prod/performance/0055/10/thumb_5409725_performance_1080.jpeg"
   },
   {
     "date": "2025-06-21T12:30",
@@ -932,10 +1037,10 @@
   },
   {
     "date": "2025-06-21T14:00",
-    "artist": "Ulfhednir",
-    "stage": "UDGAARD",
-    "description": "I skyggen af storbyens tage på Vesterbro blev Kampgruppen Ulfhednir dannet i 1994 af en samling brødre og søstre, der var drevet af blodets kald og åndens kraft.De tog navnet Ulfhednir – ”den, som bærer ulveklæder” – inspireret af de sagnomspundne frygtløse bersærkere.Siden halvfemserne er gruppen vokset ud af loftrummet og tæller i dag omkring 60 medlemmer, hvor nogle bærer mærkerne fra de tidligste dage, mens andre medlemmer er nye. Alle som en har de specialiseret sig i intens kamptræning og levende formidling af vikingetidens brutale og fascinerende krigerkultur.",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453156_performance_1080.png"
+    "artist": "Sort Søndag",
+    "stage": "BIERGARTEN",
+    "description": "I år vil Sort Søndag optage en helt særlig 15-års jubilæumspodcast på COPENHELL. Værterne Anders Bøtter og Jakob Trolle indtager scenen sammen med fantastiske gæster. Forvent tonsertunge toner, sjove anekdoter, masser af headbanging og selvfølgelig inputs fra Danmarks bedste Giro 666-lytterfællesskab. Sammen fejrer vi musikken og den danske metalscene, som her i 2025 står stærkere end nogensinde før.",
+    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453146_performance_1080.png"
   },
   {
     "date": "2025-06-21T14:00",
@@ -946,10 +1051,10 @@
   },
   {
     "date": "2025-06-21T14:00",
-    "artist": "Sort Søndag",
-    "stage": "BIERGARTEN",
-    "description": "I år vil Sort Søndag optage en helt særlig 15-års jubilæumspodcast på COPENHELL. Værterne Anders Bøtter og Jakob Trolle indtager scenen sammen med fantastiske gæster. Forvent tonsertunge toner, sjove anekdoter, masser af headbanging og selvfølgelig inputs fra Danmarks bedste Giro 666-lytterfællesskab. Sammen fejrer vi musikken og den danske metalscene, som her i 2025 står stærkere end nogensinde før.",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453146_performance_1080.png"
+    "artist": "Ulfhednir",
+    "stage": "UDGAARD",
+    "description": "I skyggen af storbyens tage på Vesterbro blev Kampgruppen Ulfhednir dannet i 1994 af en samling brødre og søstre, der var drevet af blodets kald og åndens kraft.De tog navnet Ulfhednir – ”den, som bærer ulveklæder” – inspireret af de sagnomspundne frygtløse bersærkere.Siden halvfemserne er gruppen vokset ud af loftrummet og tæller i dag omkring 60 medlemmer, hvor nogle bærer mærkerne fra de tidligste dage, mens andre medlemmer er nye. Alle som en har de specialiseret sig i intens kamptræning og levende formidling af vikingetidens brutale og fascinerende krigerkultur.",
+    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453156_performance_1080.png"
   },
   {
     "date": "2025-06-21T14:15",
@@ -981,9 +1086,9 @@
   },
   {
     "date": "2025-06-21T15:30",
-    "artist": "Kōya",
+    "artist": "KŌYA",
     "stage": "MOBIL SCENE",
-    "description": "Aalborgensiske Kōya er braget ind på den danske metalscene og er hurtigt blevet kendt for deres energiske liveshows og take-no-prisoners-attitude med glimt i øjet. Et klart vidnesbyrd om dette er bandets tidlige deltagelse i events som den nationale WOA Metal Battle-finale ’24, Support Our Scene, Mono Goes Metal, Lasher Fest og When COPENHELL Freezes Over. Med afsæt i samtidens post-hardcore inkorporeres hardcorens aggressive og hurtige natur med sludgens knusende tyngde og atmosfæriske elementer med inspiration fra black metal og shoegaze, som resulterer i et fængslende og dynamisk lydbillede.",
+    "description": "De fremadstormende aalborgensere er braget ind på den danske metalscene og er hurtigt blevet kendt for deres energiske liveshows og take-no-prisoners-attitude. Bandet har allerede tidligt i karrieren deltaget i events som den nationale WOA Metal Battle-finale ’24, Support Our Scene, Mono Goes Metal, Lasher Fest og When COPENHELL Freezes Over. De fusionerer med afsæt i samtidens post-hardcore den aggressive og hurtige natur fra hardcore med sludgens knusende tyngde – med atmosfæriske elementer med inspiration fra black metal og shoegaze indover, der skaber et fængslende og dynamisk lydbillede.",
     "img": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468060_performance_1080.jpeg"
   },
   {
@@ -1019,7 +1124,7 @@
     "artist": "Power Hour",
     "stage": "BIERGARTEN",
     "description": "Efter sidste års succes vil Power Hour atter sætte fut i Biergarten. I en hel time synger vi fællessang til 60 af de bedste rock- og metalnumre á ét minut hver. Undervejs vil der også forekomme en smule fjol og måske et drys af Disney-musik. Mellem hver sang lyder gongen og en kæmpe fællesskål vil gjalde gennem Biergarten. 60 sange, 60 skåle, 60 minutter – det kan kun blive den vildeste fest!",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453142_performance_1080.png"
+    "img": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471695_performance_1080.png"
   },
   {
     "date": "2025-06-21T17:15",
@@ -1110,7 +1215,7 @@
     "artist": "Midnight Cowboy + Guests",
     "stage": "BIERGARTEN",
     "description": "De musikalske knive er blevet slebet på hjemmebasen Escobar på Nørrebro, så nu er han helt klar til at lægge Biergarten ned. Cowboyen inviterer dig på en musikalsk rejse, der altid er både interessant, udfordrende og inkluderende, og som har hjertet på helt rette sted. I år vil Midnight Cowboy spille op til tre forskellige shows i Biergarten. Hver aften sammen med en ny gæst bag pulten.",
-    "img": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453139_performance_1080.png"
+    "img": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471694_performance_1080.png"
   },
   {
     "date": "2025-06-21T21:30",
