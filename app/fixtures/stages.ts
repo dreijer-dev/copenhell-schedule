@@ -10,11 +10,6 @@ export const stages = [
     name: 'PANDÆMONIUM',
   },
   {
-    uuid: 'biergarten-uuid',
-    logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=BIERGARTEN',
-    name: 'BIERGARTEN',
-  },
-  {
     uuid: 'gehenna-uuid',
     logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=GEHENNA',
     name: 'GEHENNA',
@@ -33,6 +28,11 @@ export const stages = [
     uuid: 'helviti-uuid',
     logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=HELVÍTI',
     name: 'HELVÍTI',
+  },
+  {
+    uuid: 'biergarten-uuid',
+    logo: 'https://via.placeholder.com/150x75/45B7D1/FFFFFF?text=BIERGARTEN',
+    name: 'BIERGARTEN',
   },
   {
     uuid: 'mobil-scene-uuid',
