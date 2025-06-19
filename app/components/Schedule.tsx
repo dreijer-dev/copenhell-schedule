@@ -17,7 +17,7 @@ const getDefaultDate = () => {
   return today >= june18 ? today.toISOString().split('T')[0] : '2025-06-18'
 }
 
-type ViewMode = 'default' | 'smaller' | 'tiny'
+type ViewMode = 'default' | 'smaller'
 
 export function Schedule() {
   const [selectedDate, setSelectedDate] = useState(getDefaultDate())
@@ -28,8 +28,7 @@ export function Schedule() {
     event.since.startsWith(selectedDate)
   )
 
-  const dayWidth =
-    viewMode === 'tiny' ? 700 : viewMode === 'smaller' ? 1200 : 2000
+  const dayWidth = viewMode === 'smaller' ? 1200 : 2000
 
   const { getEpgProps, getLayoutProps } = useEpg({
     epg: filteredEvents,
@@ -53,7 +52,7 @@ export function Schedule() {
             className={`px-3 py-1 text-sm rounded ${
               viewMode === 'default'
                 ? 'bg-[#dc2626] text-white'
-                : 'bg-gray-100 text-gray-900 hover:bg-gray-300'
+                : 'bg-gray-800 text-white hover:bg-gray-300'
             }`}
           >
             Default
@@ -63,23 +62,16 @@ export function Schedule() {
             className={`px-3 py-1 text-sm rounded ${
               viewMode === 'smaller'
                 ? 'bg-[#dc2626] text-white'
-                : 'bg-gray-100 text-gray-900 hover:bg-gray-300'
+                : 'bg-gray-800 text-white hover:bg-gray-300'
             }`}
           >
             Smaller
           </button>
-          <button
-            onClick={() => setViewMode('tiny')}
-            className={`px-3 py-1 text-sm rounded ${
-              viewMode === 'tiny'
-                ? 'bg-[#dc2626] text-white'
-                : 'bg-gray-100 text-gray-900 hover:bg-gray-300'
-            }`}
-          >
-            Tiny
-          </button>
         </div>
       </div>
+      <p className='text-white p-2 border-red-600 border font-sans text-sm'>
+        NB! End times are not accurate (not provided by the festival)
+      </p>
       <div className='w-full'>
         <Epg {...getEpgProps()}>
           <Layout

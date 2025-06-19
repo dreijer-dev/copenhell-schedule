@@ -39,11 +39,21 @@ export const Program = ({ program, ...rest }: ProgramItem) => {
           width={styles.width}
           style={styles.position}
           className='cursor-pointer'
+          theme={{
+            background: {
+              bg: '#000000',
+            },
+          }}
         >
           <ProgramContent width={styles.width} isLive={isLive}>
             <ProgramFlex>
               {isLive && isMinWidth && (
-                <ProgramImage src={image} alt='Preview' />
+                <ProgramImage
+                  src={image}
+                  alt='Preview'
+                  width={100}
+                  height={100}
+                />
               )}
               <ProgramStack>
                 <ProgramTitle>{title}</ProgramTitle>

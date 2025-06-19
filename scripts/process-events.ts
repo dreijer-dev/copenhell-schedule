@@ -80,7 +80,7 @@ const processedEvents: ProcessedEvent[] = []
 Object.entries(eventsByStage).forEach(([stage, events]) => {
   events.forEach((event, index) => {
     const startDate = new Date(event.date)
-    let endDate = new Date(startDate.getTime() + 2 * 60 * 60 * 1000) // Default 2 hours
+    let endDate = new Date(startDate.getTime() + 1 * 60 * 60 * 1000) // Default 1 hour
 
     // If there's a next event on this stage, adjust end time
     if (index < events.length - 1) {

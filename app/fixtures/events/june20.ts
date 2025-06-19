@@ -9,7 +9,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/54/thumb_5453153_performance_1080.png',
     since: '2025-06-20T10:00:00.000Z',
-    till: '2025-06-20T10:55:00.000Z',
+    till: '2025-06-20T11:00:00.000Z',
     title: 'Flå en råge',
   },
   {
@@ -19,7 +19,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/50/thumb_5449722_performance_1080.jpeg',
     since: '2025-06-20T10:30:00.000Z',
-    till: '2025-06-20T12:30:00.000Z',
+    till: '2025-06-20T11:30:00.000Z',
     title: 'THE SOUTHERN RIVER BAND',
   },
   {
@@ -30,7 +30,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/09/thumb_5408482_performance_1080.jpeg',
     since: '2025-06-20T10:30:00.000Z',
-    till: '2025-06-20T12:30:00.000Z',
+    till: '2025-06-20T11:30:00.000Z',
     title: 'TETRARCH',
   },
   {
@@ -52,7 +52,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/69/thumb_5468655_performance_960.png',
     since: '2025-06-20T11:00:00.000Z',
-    till: '2025-06-20T12:10:00.000Z',
+    till: '2025-06-20T12:00:00.000Z',
     title: 'Metal & Tråd',
   },
   {
@@ -63,7 +63,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/54/thumb_5453151_performance_1080.png',
     since: '2025-06-20T11:00:00.000Z',
-    till: '2025-06-20T11:55:00.000Z',
+    till: '2025-06-20T12:00:00.000Z',
     title: 'COPENHELL Musikbingo',
   },
   {
@@ -74,7 +74,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/54/thumb_5453128_performance_1080.png',
     since: '2025-06-20T11:00:00.000Z',
-    till: '2025-06-20T11:55:00.000Z',
+    till: '2025-06-20T12:00:00.000Z',
     title: 'Teater Lux',
   },
   {
@@ -85,7 +85,7 @@ export const events: Event[] = [
     image:
       'https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg',
     since: '2025-06-20T11:00:00.000Z',
-    till: '2025-06-20T11:55:00.000Z',
+    till: '2025-06-20T12:00:00.000Z',
     title: 'Trekamp',
   },
   {
@@ -96,7 +96,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/09/thumb_5408486_performance_1080.jpeg',
     since: '2025-06-20T11:00:00.000Z',
-    till: '2025-06-20T12:40:00.000Z',
+    till: '2025-06-20T12:00:00.000Z',
     title: 'THUS',
   },
   {
@@ -107,7 +107,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/38/thumb_5437743_performance_1080.jpeg',
     since: '2025-06-20T11:30:00.000Z',
-    till: '2025-06-20T13:30:00.000Z',
+    till: '2025-06-20T12:30:00.000Z',
     title: 'SOULFLY',
   },
   {
@@ -118,7 +118,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/54/thumb_5453148_performance_1080.png',
     since: '2025-06-20T12:00:00.000Z',
-    till: '2025-06-20T13:25:00.000Z',
+    till: '2025-06-20T13:00:00.000Z',
     title: 'Indbegrebet af ... (The Essence of...)',
   },
   {
@@ -129,7 +129,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/54/thumb_5453127_performance_1080.png',
     since: '2025-06-20T12:00:00.000Z',
-    till: '2025-06-20T14:00:00.000Z',
+    till: '2025-06-20T13:00:00.000Z',
     title: 'Cowboys from Hellberta',
   },
   {
@@ -140,7 +140,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/54/thumb_5453156_performance_1080.png',
     since: '2025-06-20T12:00:00.000Z',
-    till: '2025-06-20T12:55:00.000Z',
+    till: '2025-06-20T13:00:00.000Z',
     title: 'Ulfhednir',
   },
   {
@@ -151,7 +151,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/18/c6a1da33b3fbdab8457a95eb4ec2994a6b4bd2f5.jpeg',
     since: '2025-06-20T12:15:00.000Z',
-    till: '2025-06-20T13:55:00.000Z',
+    till: '2025-06-20T13:15:00.000Z',
     title: 'Conans danske barbarer',
   },
   {
@@ -161,7 +161,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/31/thumb_5430805_performance_1080.jpeg',
     since: '2025-06-20T12:45:00.000Z',
-    till: '2025-06-20T14:45:00.000Z',
+    till: '2025-06-20T13:45:00.000Z',
     title: 'SARCATOR',
   },
   {
@@ -172,7 +172,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/23/thumb_5422943_performance_1080.jpeg',
     since: '2025-06-20T12:45:00.000Z',
-    till: '2025-06-20T14:45:00.000Z',
+    till: '2025-06-20T13:45:00.000Z',
     title: 'TROLD',
   },
   {
@@ -183,7 +183,7 @@ export const events: Event[] = [
     image:
       'https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg',
     since: '2025-06-20T13:00:00.000Z',
-    till: '2025-06-20T15:00:00.000Z',
+    till: '2025-06-20T14:00:00.000Z',
     title: 'Trekamp',
   },
   {
@@ -194,7 +194,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/09/thumb_5408468_performance_1080.jpeg',
     since: '2025-06-20T13:15:00.000Z',
-    till: '2025-06-20T15:15:00.000Z',
+    till: '2025-06-20T14:15:00.000Z',
     title: 'GÅTE',
   },
   {
@@ -205,7 +205,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/54/thumb_5453137_performance_1080.png',
     since: '2025-06-20T13:30:00.000Z',
-    till: '2025-06-20T14:55:00.000Z',
+    till: '2025-06-20T14:30:00.000Z',
     title: 'Brothers In Orms',
   },
   {
@@ -215,7 +215,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/69/517ee7332a140db4d7ed614c3f38df55cae61abd.png',
     since: '2025-06-20T14:00:00.000Z',
-    till: '2025-06-20T15:40:00.000Z',
+    till: '2025-06-20T15:00:00.000Z',
     title: 'Forging Fantasy',
   },
   {
@@ -237,7 +237,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/54/thumb_5453119_performance_1080.png',
     since: '2025-06-20T14:00:00.000Z',
-    till: '2025-06-20T16:00:00.000Z',
+    till: '2025-06-20T15:00:00.000Z',
     title: 'Puke Wolf',
   },
   {
@@ -248,7 +248,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/09/thumb_5408411_performance_1080.jpeg',
     since: '2025-06-20T14:00:00.000Z',
-    till: '2025-06-20T16:00:00.000Z',
+    till: '2025-06-20T15:00:00.000Z',
     title: 'DREAM THEATER',
   },
   {
@@ -259,7 +259,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/69/thumb_5468059_performance_1080.jpeg',
     since: '2025-06-20T14:00:00.000Z',
-    till: '2025-06-20T16:00:00.000Z',
+    till: '2025-06-20T15:00:00.000Z',
     title: 'VULVATORIOUS',
   },
   {
@@ -270,7 +270,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/09/thumb_5408481_performance_1080.jpeg',
     since: '2025-06-20T14:45:00.000Z',
-    till: '2025-06-20T16:25:00.000Z',
+    till: '2025-06-20T15:45:00.000Z',
     title: 'BRAT',
   },
   {
@@ -281,7 +281,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/72/thumb_5471695_performance_1080.png',
     since: '2025-06-20T15:00:00.000Z',
-    till: '2025-06-20T17:00:00.000Z',
+    till: '2025-06-20T16:00:00.000Z',
     title: 'Power Hour',
   },
   {
@@ -303,7 +303,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/10/thumb_5409728_performance_1080.jpeg',
     since: '2025-06-20T15:15:00.000Z',
-    till: '2025-06-20T17:15:00.000Z',
+    till: '2025-06-20T16:15:00.000Z',
     title: 'CARCASS',
   },
   {
@@ -314,7 +314,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/32/thumb_5431149_performance_1080.jpeg',
     since: '2025-06-20T15:30:00.000Z',
-    till: '2025-06-20T17:30:00.000Z',
+    till: '2025-06-20T16:30:00.000Z',
     title: 'SLOMOSA',
   },
   {
@@ -325,7 +325,7 @@ export const events: Event[] = [
     image:
       'https://embeds.appmiral.com/kMvY28aByX/assets/img/img_artist_default.jpeg',
     since: '2025-06-20T15:30:00.000Z',
-    till: '2025-06-20T17:30:00.000Z',
+    till: '2025-06-20T16:30:00.000Z',
     title: 'Trekamp',
   },
   {
@@ -336,7 +336,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/38/thumb_5437726_performance_1080.jpeg',
     since: '2025-06-20T15:45:00.000Z',
-    till: '2025-06-20T17:45:00.000Z',
+    till: '2025-06-20T16:45:00.000Z',
     title: 'Hår(d)dyst',
   },
   {
@@ -347,7 +347,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/54/thumb_5453117_performance_1080.png',
     since: '2025-06-20T16:00:00.000Z',
-    till: '2025-06-20T18:00:00.000Z',
+    till: '2025-06-20T17:00:00.000Z',
     title: 'Planet Y',
   },
   {
@@ -358,7 +358,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/09/thumb_5408478_performance_1080.jpeg',
     since: '2025-06-20T16:30:00.000Z',
-    till: '2025-06-20T18:30:00.000Z',
+    till: '2025-06-20T17:30:00.000Z',
     title: 'GUILT TRIP',
   },
   {
@@ -369,7 +369,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/32/thumb_5431085_performance_1080.jpeg',
     since: '2025-06-20T16:30:00.000Z',
-    till: '2025-06-20T18:30:00.000Z',
+    till: '2025-06-20T17:30:00.000Z',
     title: 'KREATOR',
   },
   {
@@ -380,7 +380,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/54/thumb_5453109_performance_1080.png',
     since: '2025-06-20T17:15:00.000Z',
-    till: '2025-06-20T18:55:00.000Z',
+    till: '2025-06-20T18:15:00.000Z',
     title: 'OPENHELL',
   },
   {
@@ -390,7 +390,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/41/thumb_5440994_performance_1080.jpeg',
     since: '2025-06-20T17:45:00.000Z',
-    till: '2025-06-20T19:45:00.000Z',
+    till: '2025-06-20T18:45:00.000Z',
     title: 'STRAY FROM THE PATH',
   },
   {
@@ -401,7 +401,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/09/thumb_5408431_performance_1080.jpeg',
     since: '2025-06-20T18:00:00.000Z',
-    till: '2025-06-20T20:00:00.000Z',
+    till: '2025-06-20T19:00:00.000Z',
     title: 'MYRKUR',
   },
   {
@@ -412,7 +412,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/32/thumb_5431152_performance_1080.jpeg',
     since: '2025-06-20T18:30:00.000Z',
-    till: '2025-06-20T20:30:00.000Z',
+    till: '2025-06-20T19:30:00.000Z',
     title: 'DIRTY HONEY',
   },
   {
@@ -445,7 +445,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/31/thumb_5430814_performance_1080.jpeg',
     since: '2025-06-20T19:30:00.000Z',
-    till: '2025-06-20T21:30:00.000Z',
+    till: '2025-06-20T20:30:00.000Z',
     title: 'BILLY IDOL',
   },
   {
@@ -456,7 +456,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/54/thumb_5453145_performance_1080.png',
     since: '2025-06-20T20:00:00.000Z',
-    till: '2025-06-20T22:00:00.000Z',
+    till: '2025-06-20T21:00:00.000Z',
     title: 'Biergarten Night Crew',
   },
   {
@@ -467,7 +467,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/09/thumb_5408470_performance_1080.jpeg',
     since: '2025-06-20T21:00:00.000Z',
-    till: '2025-06-20T23:00:00.000Z',
+    till: '2025-06-20T22:00:00.000Z',
     title: 'STRYCHNOS',
   },
   {
@@ -478,7 +478,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/10/thumb_5409730_performance_1080.png',
     since: '2025-06-20T21:15:00.000Z',
-    till: '2025-06-20T23:15:00.000Z',
+    till: '2025-06-20T22:15:00.000Z',
     title: 'KING DIAMOND',
   },
   {
@@ -522,7 +522,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/18/thumb_5417964_performance_1080.jpeg',
     since: '2025-06-20T22:00:00.000Z',
-    till: '2025-06-21T00:00:00.000Z',
+    till: '2025-06-20T23:00:00.000Z',
     title: 'Ekstreme oprør',
   },
   {
@@ -533,7 +533,7 @@ export const events: Event[] = [
     image:
       'https://media.appmiral.com/prod/performance/0055/19/thumb_5418729_performance_1080.jpeg',
     since: '2025-06-20T22:00:00.000Z',
-    till: '2025-06-21T00:00:00.000Z',
+    till: '2025-06-20T23:00:00.000Z',
     title: 'CABAL',
   },
 ]

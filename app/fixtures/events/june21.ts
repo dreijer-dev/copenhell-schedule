@@ -7,7 +7,7 @@ export const events: Event[] = [
     "id": "event-119",
     "image": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453153_performance_1080.png",
     "since": "2025-06-21T10:00:00.000Z",
-    "till": "2025-06-21T12:00:00.000Z",
+    "till": "2025-06-21T11:00:00.000Z",
     "title": "Flå en råge"
   },
   {
@@ -25,7 +25,7 @@ export const events: Event[] = [
     "id": "event-100",
     "image": "https://media.appmiral.com/prod/performance/0055/10/thumb_5409717_performance_1080.jpeg",
     "since": "2025-06-21T10:30:00.000Z",
-    "till": "2025-06-21T12:30:00.000Z",
+    "till": "2025-06-21T11:30:00.000Z",
     "title": "FLESHWATER"
   },
   {
@@ -34,7 +34,7 @@ export const events: Event[] = [
     "id": "event-158",
     "image": "https://media.appmiral.com/prod/performance/0055/10/thumb_5409725_performance_1080.jpeg",
     "since": "2025-06-21T10:30:00.000Z",
-    "till": "2025-06-21T12:30:00.000Z",
+    "till": "2025-06-21T11:30:00.000Z",
     "title": "NESTOR"
   },
   {
@@ -43,7 +43,7 @@ export const events: Event[] = [
     "id": "event-60",
     "image": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453149_performance_1080.png",
     "since": "2025-06-21T10:45:00.000Z",
-    "till": "2025-06-21T11:55:00.000Z",
+    "till": "2025-06-21T11:45:00.000Z",
     "title": "COPENHELL Music Quiz"
   },
   {
@@ -52,7 +52,7 @@ export const events: Event[] = [
     "id": "event-138",
     "image": "https://media.appmiral.com/prod/performance/0055/19/thumb_5418731_performance_1080.jpeg",
     "since": "2025-06-21T10:45:00.000Z",
-    "till": "2025-06-21T12:25:00.000Z",
+    "till": "2025-06-21T11:45:00.000Z",
     "title": "TERRORPY"
   },
   {
@@ -61,7 +61,7 @@ export const events: Event[] = [
     "id": "event-31",
     "image": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468655_performance_960.png",
     "since": "2025-06-21T11:00:00.000Z",
-    "till": "2025-06-21T12:10:00.000Z",
+    "till": "2025-06-21T12:00:00.000Z",
     "title": "Metal & Tråd"
   },
   {
@@ -70,7 +70,7 @@ export const events: Event[] = [
     "id": "event-82",
     "image": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453128_performance_1080.png",
     "since": "2025-06-21T11:00:00.000Z",
-    "till": "2025-06-21T11:55:00.000Z",
+    "till": "2025-06-21T12:00:00.000Z",
     "title": "Teater Lux"
   },
   {
@@ -79,7 +79,7 @@ export const events: Event[] = [
     "id": "event-174",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408452_performance_1080.jpeg",
     "since": "2025-06-21T11:30:00.000Z",
-    "till": "2025-06-21T13:30:00.000Z",
+    "till": "2025-06-21T12:30:00.000Z",
     "title": "HEAVEN SHALL BURN"
   },
   {
@@ -88,7 +88,7 @@ export const events: Event[] = [
     "id": "event-61",
     "image": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453146_performance_1080.png",
     "since": "2025-06-21T12:00:00.000Z",
-    "till": "2025-06-21T13:25:00.000Z",
+    "till": "2025-06-21T13:00:00.000Z",
     "title": "Sort Søndag"
   },
   {
@@ -97,7 +97,7 @@ export const events: Event[] = [
     "id": "event-83",
     "image": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453127_performance_1080.png",
     "since": "2025-06-21T12:00:00.000Z",
-    "till": "2025-06-21T14:00:00.000Z",
+    "till": "2025-06-21T13:00:00.000Z",
     "title": "Cowboys from Hellberta"
   },
   {
@@ -106,7 +106,7 @@ export const events: Event[] = [
     "id": "event-120",
     "image": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453156_performance_1080.png",
     "since": "2025-06-21T12:00:00.000Z",
-    "till": "2025-06-21T14:00:00.000Z",
+    "till": "2025-06-21T13:00:00.000Z",
     "title": "Ulfhednir"
   },
   {
@@ -115,7 +115,7 @@ export const events: Event[] = [
     "id": "event-32",
     "image": "https://media.appmiral.com/prod/performance/0055/18/thumb_5417965_performance_1080.jpeg",
     "since": "2025-06-21T12:15:00.000Z",
-    "till": "2025-06-21T13:55:00.000Z",
+    "till": "2025-06-21T13:15:00.000Z",
     "title": "Lig, lort og lir i dyreriget"
   },
   {
@@ -124,7 +124,7 @@ export const events: Event[] = [
     "id": "event-139",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408480_performance_1080.jpeg",
     "since": "2025-06-21T12:30:00.000Z",
-    "till": "2025-06-21T14:30:00.000Z",
+    "till": "2025-06-21T13:30:00.000Z",
     "title": "GORILLA ANGREB"
   },
   {
@@ -133,7 +133,7 @@ export const events: Event[] = [
     "id": "event-159",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408456_performance_1080.jpeg",
     "since": "2025-06-21T12:45:00.000Z",
-    "till": "2025-06-21T14:45:00.000Z",
+    "till": "2025-06-21T13:45:00.000Z",
     "title": "ALIEN ANT FARM"
   },
   {
@@ -142,7 +142,7 @@ export const events: Event[] = [
     "id": "event-101",
     "image": "https://media.appmiral.com/prod/performance/0055/32/thumb_5431122_performance_1080.jpeg",
     "since": "2025-06-21T13:00:00.000Z",
-    "till": "2025-06-21T15:00:00.000Z",
+    "till": "2025-06-21T14:00:00.000Z",
     "title": "FIT FOR AN AUTOPSY"
   },
   {
@@ -151,7 +151,7 @@ export const events: Event[] = [
     "id": "event-62",
     "image": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453135_performance_1080.png",
     "since": "2025-06-21T13:30:00.000Z",
-    "till": "2025-06-21T14:55:00.000Z",
+    "till": "2025-06-21T14:30:00.000Z",
     "title": "Nordic Elite Wrestling"
   },
   {
@@ -160,7 +160,7 @@ export const events: Event[] = [
     "id": "event-181",
     "image": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468060_performance_1080.jpeg",
     "since": "2025-06-21T13:30:00.000Z",
-    "till": "2025-06-21T15:30:00.000Z",
+    "till": "2025-06-21T14:30:00.000Z",
     "title": "KŌYA"
   },
   {
@@ -169,7 +169,7 @@ export const events: Event[] = [
     "id": "event-33",
     "image": "https://media.appmiral.com/prod/performance/0055/38/thumb_5437741_performance_1080.jpeg",
     "since": "2025-06-21T14:00:00.000Z",
-    "till": "2025-06-21T15:40:00.000Z",
+    "till": "2025-06-21T15:00:00.000Z",
     "title": "Mega (S)mash: Raw power and circle kicks"
   },
   {
@@ -178,7 +178,7 @@ export const events: Event[] = [
     "id": "event-175",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408419_performance_1080.jpeg",
     "since": "2025-06-21T14:00:00.000Z",
-    "till": "2025-06-21T16:00:00.000Z",
+    "till": "2025-06-21T15:00:00.000Z",
     "title": "POWERWOLF"
   },
   {
@@ -187,7 +187,7 @@ export const events: Event[] = [
     "id": "event-140",
     "image": "https://media.appmiral.com/prod/performance/0055/26/thumb_5425347_performance_1080.png",
     "since": "2025-06-21T14:30:00.000Z",
-    "till": "2025-06-21T16:10:00.000Z",
+    "till": "2025-06-21T15:30:00.000Z",
     "title": "CASTLE RAT"
   },
   {
@@ -196,7 +196,7 @@ export const events: Event[] = [
     "id": "event-63",
     "image": "https://media.appmiral.com/prod/performance/0055/72/thumb_5471695_performance_1080.png",
     "since": "2025-06-21T15:00:00.000Z",
-    "till": "2025-06-21T17:00:00.000Z",
+    "till": "2025-06-21T16:00:00.000Z",
     "title": "Power Hour"
   },
   {
@@ -205,7 +205,7 @@ export const events: Event[] = [
     "id": "event-160",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408426_performance_1080.jpeg",
     "since": "2025-06-21T15:15:00.000Z",
-    "till": "2025-06-21T17:15:00.000Z",
+    "till": "2025-06-21T16:15:00.000Z",
     "title": "SKILLET"
   },
   {
@@ -214,7 +214,7 @@ export const events: Event[] = [
     "id": "event-102",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408460_performance_1080.png",
     "since": "2025-06-21T15:30:00.000Z",
-    "till": "2025-06-21T17:30:00.000Z",
+    "till": "2025-06-21T16:30:00.000Z",
     "title": "KIM DRACULA"
   },
   {
@@ -223,7 +223,7 @@ export const events: Event[] = [
     "id": "event-34",
     "image": "https://media.appmiral.com/prod/performance/0055/18/thumb_5417964_performance_1080.jpeg",
     "since": "2025-06-21T15:45:00.000Z",
-    "till": "2025-06-21T17:25:00.000Z",
+    "till": "2025-06-21T16:45:00.000Z",
     "title": "Ekstreme oprør"
   },
   {
@@ -232,7 +232,7 @@ export const events: Event[] = [
     "id": "event-84",
     "image": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453120_performance_1080.png",
     "since": "2025-06-21T16:00:00.000Z",
-    "till": "2025-06-21T18:00:00.000Z",
+    "till": "2025-06-21T17:00:00.000Z",
     "title": "Grava"
   },
   {
@@ -241,7 +241,7 @@ export const events: Event[] = [
     "id": "event-141",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408484_performance_1080.jpeg",
     "since": "2025-06-21T16:15:00.000Z",
-    "till": "2025-06-21T18:15:00.000Z",
+    "till": "2025-06-21T17:15:00.000Z",
     "title": "YOSEMITE IN BLACK"
   },
   {
@@ -250,7 +250,7 @@ export const events: Event[] = [
     "id": "event-176",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408451_performance_1080.jpeg",
     "since": "2025-06-21T16:30:00.000Z",
-    "till": "2025-06-21T18:30:00.000Z",
+    "till": "2025-06-21T17:30:00.000Z",
     "title": "IN FLAMES"
   },
   {
@@ -259,7 +259,7 @@ export const events: Event[] = [
     "id": "event-64",
     "image": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453109_performance_1080.png",
     "since": "2025-06-21T17:15:00.000Z",
-    "till": "2025-06-21T18:55:00.000Z",
+    "till": "2025-06-21T18:15:00.000Z",
     "title": "OPENHELL"
   },
   {
@@ -268,7 +268,7 @@ export const events: Event[] = [
     "id": "event-35",
     "image": "https://media.appmiral.com/prod/performance/0055/69/thumb_5468520_performance_1080.jpeg",
     "since": "2025-06-21T17:30:00.000Z",
-    "till": "2025-06-21T19:30:00.000Z",
+    "till": "2025-06-21T18:30:00.000Z",
     "title": "Alt på ét bræt"
   },
   {
@@ -277,7 +277,7 @@ export const events: Event[] = [
     "id": "event-161",
     "image": "https://media.appmiral.com/prod/performance/0055/32/thumb_5431092_performance_960.png",
     "since": "2025-06-21T18:00:00.000Z",
-    "till": "2025-06-21T20:00:00.000Z",
+    "till": "2025-06-21T19:00:00.000Z",
     "title": "THE SANDMEN"
   },
   {
@@ -286,7 +286,7 @@ export const events: Event[] = [
     "id": "event-142",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408472_performance_960.png",
     "since": "2025-06-21T18:15:00.000Z",
-    "till": "2025-06-21T20:15:00.000Z",
+    "till": "2025-06-21T19:15:00.000Z",
     "title": "GABESTOK"
   },
   {
@@ -295,7 +295,7 @@ export const events: Event[] = [
     "id": "event-103",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408462_performance_1080.jpeg",
     "since": "2025-06-21T18:30:00.000Z",
-    "till": "2025-06-21T20:30:00.000Z",
+    "till": "2025-06-21T19:30:00.000Z",
     "title": "ANAAL NATHRAKH"
   },
   {
@@ -322,7 +322,7 @@ export const events: Event[] = [
     "id": "event-177",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408385_performance_1080.jpeg",
     "since": "2025-06-21T19:30:00.000Z",
-    "till": "2025-06-21T21:30:00.000Z",
+    "till": "2025-06-21T20:30:00.000Z",
     "title": "SLIPKNOT"
   },
   {
@@ -340,7 +340,7 @@ export const events: Event[] = [
     "id": "event-68",
     "image": "https://media.appmiral.com/prod/performance/0055/54/thumb_5453145_performance_1080.png",
     "since": "2025-06-21T20:00:00.000Z",
-    "till": "2025-06-21T22:00:00.000Z",
+    "till": "2025-06-21T21:00:00.000Z",
     "title": "Biergarten Night Crew"
   },
   {
@@ -349,7 +349,7 @@ export const events: Event[] = [
     "id": "event-104",
     "image": "https://media.appmiral.com/prod/performance/0055/09/thumb_5408455_performance_1080.jpeg",
     "since": "2025-06-21T21:30:00.000Z",
-    "till": "2025-06-21T23:30:00.000Z",
+    "till": "2025-06-21T22:30:00.000Z",
     "title": "SODOM"
   },
   {
@@ -358,7 +358,7 @@ export const events: Event[] = [
     "id": "event-162",
     "image": "https://media.appmiral.com/prod/performance/0055/32/thumb_5431088_performance_1080.jpeg",
     "since": "2025-06-21T21:45:00.000Z",
-    "till": "2025-06-21T23:45:00.000Z",
+    "till": "2025-06-21T22:45:00.000Z",
     "title": "BLOOD INCANTATION"
   },
   {
@@ -367,7 +367,7 @@ export const events: Event[] = [
     "id": "event-143",
     "image": "https://media.appmiral.com/prod/performance/0055/10/df3078ac019221a71615dbeb0dc984efddd7f27d.png",
     "since": "2025-06-21T22:00:00.000Z",
-    "till": "2025-06-22T00:00:00.000Z",
+    "till": "2025-06-21T23:00:00.000Z",
     "title": "HEALTH"
   }
 ]

@@ -25,7 +25,7 @@ export const events: Event[] = [
     "id": "event-6",
     "image": "https://media.appmiral.com/prod/performance/0055/18/thumb_5417969_performance_1080.jpeg",
     "since": "2025-06-17T22:00:00.000Z",
-    "till": "2025-06-18T00:00:00.000Z",
+    "till": "2025-06-17T23:00:00.000Z",
     "title": "Død før syndfloden"
   }
 ]
